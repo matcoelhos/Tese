@@ -1,0 +1,42 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{AI}]\begingroup Artificial Intelligence\nomeqref {2.0}\nompageref{12}
+  \item [{ASL}]\begingroup American Sign Language\nomeqref {2.0}\nompageref{12}
+  \item [{CNN}]\begingroup Convolutional Neural Network\nomeqref {2.0}\nompageref{12}
+  \item [{CPS}]\begingroup Cyber-Physical System\nomeqref {1.0}\nompageref{1}
+  \item [{CPU}]\begingroup Central Processing Unit\nomeqref {3.0}\nompageref{31}
+  \item [{CWS}]\begingroup Cooperative Wearable System\nomeqref {5.0}\nompageref{105}
+  \item [{DNN}]\begingroup Deep Neural Network\nomeqref {2.0}\nompageref{12}
+  \item [{ECG}]\begingroup Electrocardiography\nomeqref {2.0}\nompageref{12}
+  \item [{EEG}]\begingroup Electroencephalography\nomeqref {2.0}\nompageref{12}
+  \item [{FPGA}]\begingroup Field-Programmable Gate Array\nomeqref {2.0}\nompageref{12}
+  \item [{GAN}]\begingroup Generative Adversarial Network\nomeqref {4.0}\nompageref{39}
+  \item [{GPE}]\begingroup Gaussian Process Estimator\nomeqref {4.0}\nompageref{39}
+  \item [{GRP}]\begingroup Gaussian Random Process\nomeqref {4.0}\nompageref{39}
+  \item [{HPS}]\begingroup Hybrid Pelletized Sinter\nomeqref {2.0}\nompageref{12}
+  \item [{HUD}]\begingroup Head-Up Display\nomeqref {5.0}\nompageref{105}
+  \item [{HW}]\begingroup Hardware\nomeqref {2.0}\nompageref{12}
+  \item [{IDS}]\begingroup Intrusion Detection System\nomeqref {2.0}\nompageref{12}
+  \item [{IMU}]\begingroup Inertial Measurement Unit\nomeqref {4.0}\nompageref{39}
+  \item [{IoT}]\begingroup Internet of Things\nomeqref {1.0}\nompageref{1}
+  \item [{LIDAR}]\begingroup Light Detection and Ranging\nomeqref {4.0}\nompageref{39}
+  \item [{LSTM}]\begingroup Long Short-Term Memory\nomeqref {2.0}\nompageref{12}
+  \item [{MCG}]\begingroup Magnetocardiography\nomeqref {2.0}\nompageref{12}
+  \item [{MEC}]\begingroup Mobile Edge Computing\nomeqref {2.0}\nompageref{12}
+  \item [{MLP}]\begingroup Multi-Layer Perceptron\nomeqref {4.0}\nompageref{39}
+  \item [{NLP}]\begingroup Natural-Language Processing\nomeqref {1.0}\nompageref{1}
+  \item [{PCB}]\begingroup Printed Circuit Board\nomeqref {3.0}\nompageref{31}
+  \item [{PPG}]\begingroup Photoplesmiography\nomeqref {2.0}\nompageref{12}
+  \item [{QoS}]\begingroup Quality-of-Service\nomeqref {5.0}\nompageref{105}
+  \item [{SVM}]\begingroup Support Vector Machine\nomeqref {2.0}\nompageref{12}
+  \item [{SW}]\begingroup Software\nomeqref {2.0}\nompageref{12}
+  \item [{UAV}]\begingroup Unmanned Aerial Vehicles\nomeqref {2.0}\nompageref{12}
+  \item [{VAE}]\begingroup Variational Autoencoders\nomeqref {4.0}\nompageref{39}
+  \item [{VANET}]\begingroup Vehicular Ad Hoc Network\nomeqref {2.0}\nompageref{12}
+  \item [{WBAN}]\begingroup Wireless Body-Area Network\nomeqref {3.0}\nompageref{31}
+  \item [{WLAN}]\begingroup Wireless Local Area Network\nomeqref {4.0}\nompageref{39}
+  \item [{WSN}]\begingroup Wireless Sensor Networks\nomeqref {2.0}\nompageref{12}
+  \item [{ZB}]\begingroup Zettabytes\nomeqref {1.0}\nompageref{1}
+
+\end{thenomenclature}

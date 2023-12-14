@@ -1,0 +1,126 @@
+\babel@toc {brazil}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{List of Figures}{}{chapter*.3}%
+\contentsline {chapter}{List of Tables}{}{chapter*.4}%
+\contentsline {chapter}{\nonumberline List of Abbreviations}{}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Wearable Computing}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Edge Computing}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Artificial Intelligence (AI)}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Stakeholders}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Objectives}{7}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Text Organization}{8}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Contributions}{8}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Edge AI}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Defining Edge AI}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Mapping Edge AI applications}{15}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Applications Overview}{16}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Preliminary Analyses}{23}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Edge Computing and AI taxonomies analysis}{26}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Edge Computing Taxonomies}{26}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}AI Algorithms Taxonomies}{27}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Edge AI Taxonomy}{27}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Final Remarks}{29}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Wearable Edge AI}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Cooperative Wearable Systems}{33}{section.3.1}%
+\contentsline {subsubsection}{Single-User Cooperative Wearable Systems}{34}{section*.17}%
+\contentsline {subsubsection}{Multiple-User Cooperative Wearable Systems}{35}{section*.18}%
+\contentsline {section}{\numberline {3.2}Wearable Edge AI}{35}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Rethinking the hardware/software co-design for Edge AI solutions}{36}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {4}Case Study - Wearable Edge AI towards environmental studies}{39}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Leaf damage estimation}{39}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Requirements}{39}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Method overview}{40}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Datasets Description}{41}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Preprocessing}{41}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Synthetic Dataset Generation}{43}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Conditional GAN Architecture}{45}{subsection.4.1.6}%
+\contentsline {subsubsection}{Generator}{45}{section*.24}%
+\contentsline {subsubsection}{Discriminator}{45}{section*.25}%
+\contentsline {subsubsection}{Training}{45}{section*.26}%
+\contentsline {subsection}{\numberline {4.1.7}Damage Estimation}{46}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.8}Evaluation Methods}{46}{subsection.4.1.8}%
+\contentsline {subsubsection}{Damage Estimation Evaluation}{46}{section*.27}%
+\contentsline {subsubsection}{Shape Reconstruction Evaluation}{47}{section*.28}%
+\contentsline {subsection}{\numberline {4.1.9}A Broader Evaluation on the Damage Estimation Results}{47}{subsection.4.1.9}%
+\contentsline {subsubsection}{MEW 2012 Results}{49}{section*.34}%
+\contentsline {subsubsection}{Shape Reconstruction results}{50}{section*.36}%
+\contentsline {subsection}{\numberline {4.1.10}Technical Evaluation: How to embed this solution?}{53}{subsection.4.1.10}%
+\contentsline {section}{\numberline {4.2}Evaluating and mapping diseases in forest canopies}{55}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Requirements}{58}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}General Architecture Proposal}{59}{subsection.4.2.2}%
+\contentsline {subsubsection}{Hardware Specification}{61}{section*.51}%
+\contentsline {paragraph}{Smart Helmet Hardware}{61}{section*.52}%
+\contentsline {paragraph}{Edge AI server Node - Hardware selection and integration}{62}{section*.54}%
+\contentsline {subsubsection}{Edge AI Software}{63}{section*.56}%
+\contentsline {subsection}{\numberline {4.2.3}Validation Tests}{66}{subsection.4.2.3}%
+\contentsline {subsubsection}{Hardware Validation Tests}{67}{section*.64}%
+\contentsline {subsubsection}{Software Validation Tests}{68}{section*.66}%
+\contentsline {subsubsection}{Architecture Validation Tests}{69}{section*.67}%
+\contentsline {subsubsection}{Case Study Validation for Deployment}{70}{section*.68}%
+\contentsline {subsection}{\numberline {4.2.4}Results}{73}{subsection.4.2.4}%
+\contentsline {subsubsection}{Hardware Validation Tests}{73}{section*.72}%
+\contentsline {subsubsection}{Software Validation Tests}{77}{section*.79}%
+\contentsline {subsubsection}{Architecture Validation Tests}{79}{section*.86}%
+\contentsline {subsubsection}{Case Study Validation for Deployment}{82}{section*.94}%
+\contentsline {section}{\numberline {4.3}Ant distribution and counting estimation}{86}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Requirements}{87}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}{Methods overview}}{88}{subsection.4.3.2}%
+\contentsline {subsubsection}{General solution}{88}{section*.99}%
+\contentsline {subsubsection}{Dot map generation}{89}{section*.101}%
+\contentsline {subsubsection}{Data augmentation}{92}{section*.107}%
+\contentsline {subsubsection}{AI model training and counting system}{93}{section*.109}%
+\contentsline {subsubsection}{Evaluation Metrics}{95}{section*.112}%
+\contentsline {subsection}{\numberline {4.3.3}{Experimental Results}}{97}{subsection.4.3.3}%
+\contentsline {subsubsection}{Results after data augmentation}{102}{section*.123}%
+\contentsline {chapter}{\numberline {5}Wearable Edge AI towards healthcare applications}{107}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Physical condition monitoring in field}{107}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Requirements}{107}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Context Overview}{108}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Wearable computing requirements}{110}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Device Architecture \leavevmode {\color {black}Description}}{110}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}System Architecture}{113}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Evaluation Methods}{115}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Results}{116}{subsection.5.1.7}%
+\contentsline {section}{\numberline {5.2}Smart wearable systems in the context of COVID-19}{119}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Requirements}{120}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}{Architecture Proposal}}{121}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}{Prototyping and Validation Tests}}{122}{subsection.5.2.3}%
+\contentsline {subsubsection}{Prototype Description}{122}{section*.142}%
+\contentsline {subsubsection}{Validation Tests}{124}{section*.146}%
+\contentsline {subsection}{\numberline {5.2.4}{Validation Tests Results}}{125}{subsection.5.2.4}%
+\contentsline {subsubsection}{Current Consumption Profiling Test}{126}{section*.148}%
+\contentsline {subsubsection}{Full Battery Discharge Test}{127}{section*.151}%
+\contentsline {subsubsection}{Functional Validation Test}{128}{section*.153}%
+\contentsline {subsection}{\numberline {5.2.5}Edge Computing - Architecture Proposal}{130}{subsection.5.2.5}%
+\contentsline {subsubsection}{Edge Computing Devices Description}{131}{section*.158}%
+\contentsline {subsubsection}{Terminal and Mobile Interfaces}{132}{section*.161}%
+\contentsline {subsubsection}{Edge Computer Server}{133}{section*.163}%
+\contentsline {subsubsection}{System Integration}{134}{section*.165}%
+\contentsline {subsection}{\numberline {5.2.6}Experimental Tests}{134}{subsection.5.2.6}%
+\contentsline {subsubsection}{Real-Time as Quality-of-Service}{134}{section*.166}%
+\contentsline {subsubsection}{Server Behavior Evaluation}{136}{section*.167}%
+\contentsline {subsection}{\numberline {5.2.7}Results}{137}{subsection.5.2.7}%
+\contentsline {subsubsection}{Devices Internal Constraints Evaluation}{137}{section*.169}%
+\contentsline {subsubsection}{Stage 1: Real-Time Constraints Definition}{140}{section*.172}%
+\contentsline {subsubsection}{Stage 2: Stressing the System with more Wearable Edge Devices}{140}{section*.174}%
+\contentsline {subsubsection}{Stage 3: Stressing the System with more Terminal Devices}{141}{section*.176}%
+\contentsline {subsubsection}{Server Behavior Evaluation}{142}{section*.178}%
+\contentsline {section}{\numberline {5.3}Wearable-based human activity recognition}{142}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Requirements}{143}{subsection.5.3.1}%
+\contentsline {subsubsection}{Edge Computing Architecture}{144}{section*.181}%
+\contentsline {subsubsection}{AI Model Proposal and Training}{145}{section*.185}%
+\contentsline {subsection}{\numberline {5.3.2}Evaluation Tests}{147}{subsection.5.3.2}%
+\contentsline {subsubsection}{Algorithm Evaluation}{148}{section*.189}%
+\contentsline {subsubsection}{Architecture Evaluation}{149}{section*.190}%
+\contentsline {subsection}{\numberline {5.3.3}Results and Discussion}{149}{subsection.5.3.3}%
+\contentsline {subsubsection}{Algorithm Evaluation}{150}{section*.191}%
+\contentsline {subsubsection}{Architecture Evaluation}{151}{section*.196}%
+\contentsline {subsubsection}{Discussion}{152}{section*.200}%
+\contentsline {chapter}{\numberline {6}Conclusions and Final Remarks}{155}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Theoretical Backbone}{156}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Lessons learned}{158}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Works}{158}{section.6.3}%
+\contentsline {chapter}{Bibliography}{160}{chapter*.202}%

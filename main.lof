@@ -1,0 +1,136 @@
+\babel@toc {brazil}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Machine Learning Hierarchy (inspired from Shinde and Shah \cite {shinde2018review})\relax }}{5}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Examples of applications developed towards the first stakeholders. These solutions include automatic ant-counting using CNNs, leaf disease detection, and leaf shape estimation.\relax }}{6}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Examples of applications developed towards the second stakeholders. These solutions include health monitoring using a faceshield, a multi-sensored smart vest for industrial applications, and a human activity recognition (HAR) monitor.\relax }}{7}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Correspondence to the classifications of edge computing devices and systems from Khan et al. \cite {khan2019edge} and Shi et al. \cite {shi2016promise}\relax }}{14}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Number of application papers per year. The first applications in this context were proposed in 2017, but the it was established in 2019.\relax }}{24}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Contributions of each category of edge computing to the curated appliances. The majority of works apply ``Mobile edge computing''.\relax }}{24}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Location of the AI algorithms. The analysis display that appliances can deploy models on edge devices or edge servers.\relax }}{25}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces AI models identified in the articles. The three individual categories that contributed the most are CNNs, LSTMs, and DNNs. Many authors identify their appliances generically as ``Machine Learning''\relax }}{26}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Classification of the works from Section \ref {sec:mapping} according to the proposed taxonomy. Each gray square is a single work evaluated in this section of the work.\relax }}{28}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Original Hardware and Software co-design process, presented in \cite {silva2019field}\relax }}{31}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Co-design principle diagrams. The traditional approach does not consider architectural aspects in parallel with the HW and SW design.\relax }}{37}{figure.caption.19}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Simplified Co-design diagram.\relax }}{40}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Proposed Method and Work Overview\relax }}{40}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Example of damage probability density distribution. This function is used to generate the artificial damage.\relax }}{44}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Illustration of the punctual artificial damage generation method \cite {iceis21leaf}.\relax }}{44}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Validation Set - Damage Distribution for the Initial and Improved Rounds. \relax }}{48}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Validation damage estimation results for the Initial and Improved Rounds\relax }}{49}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Test Set - Damage Distribution for the Initial Round\relax }}{49}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Test set damage estimation results for the Initial Round\relax }}{50}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces MEW 2012 set damage estimation results for the Initial and Improved rounds\relax }}{50}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Dice coefficient distribution for the validation set - Initial Round\relax }}{51}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Dice coefficient distribution for the validation set - Improved Round\relax }}{51}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Dice coefficient distribution for the test set - Initial Round\relax }}{52}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Dice coefficient distribution for the test set - Improved Round\relax }}{52}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Dice coefficient distribution for the MEW 2012 set\relax }}{53}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Complete segmentation pipeline proposal\relax }}{54}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Illustration of the usage of ArUco tags to segment a map area.\relax }}{54}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Region segmentation process illustration\relax }}{55}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Binarization process illustration\relax }}{55}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Experiments displaying the results of the proposed process. These experiments validate the usage of this technique to provide a mean to take this appliance onto the field.\relax }}{56}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Illustration of the Cylinder-Transect study.\relax }}{57}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces \color {black}Example of a possible location for a disease spread. We model this spread using a spatially-distributed probability density function (PDF).\relax }}{58}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Simplified Co-design diagram.\relax }}{59}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Proposed General Architecture. The smart helmets use the wearable Edge AI server to provide machine learning inferences.\relax }}{60}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Prototype Assembled\relax }}{61}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Edge AI service pipeline. In the proposed architecture, clients perform part of the processing, while the AI pipeline is provided by the Edge AI server node.\relax }}{62}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Sample of healthy and diseased leaf images obtained from the dataset.\relax }}{63}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Data processing pipeline and associated substages. For the image extraction, the associated stages are the color space conversion and histogram extraction.\relax }}{63}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Pseudospectrum extraction samples\relax }}{64}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces \color {black}Neural network representation. The chosen model was a Multi-Layer Perceptron (MLP). All layers are fully connected. The number beneath the blocks represents the number of neurons in each layer.\relax }}{65}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Loss function during the training process\relax }}{65}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Proposed CNN model. The convolutional layers have 3x3 filters, with 2x2 pooling. The output is a single value obtained from a sigmoid activation function.\relax }}{67}{figure.caption.62}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Values for accuracy and loss functions in the CNN training process.\relax }}{67}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Sampling process illustration\relax }}{71}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Demonstration of the segmentation process. The prototype used a USB camera to capture the data, which can be processed by the prototype itself or in the Edge AI server node.\relax }}{72}{figure.caption.70}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Arbitrary PDF display. The larger and more colorful red dots have a bigger probability density. {\color {black}The brown cylinder represents the main tree trunk.}\relax }}{73}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Pipeline for the hardware validation test.\relax }}{74}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Latency results for the first stage.\relax }}{74}{figure.caption.74}%
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Latency results for the second stage.\relax }}{75}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Latency results for the third stage.\relax }}{75}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Average expected predictions per second ratio on each platform. The number in blue displays the expected ratio.\relax }}{76}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.41}{\ignorespaces MLP and CNN performance comparison test results.\relax }}{78}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.42}{\ignorespaces Stages considered in the architectural validation test.\relax }}{80}{figure.caption.87}%
+\contentsline {figure}{\numberline {4.43}{\ignorespaces Latency for each of the steps presented in Figure \ref {fig:archtest-dataflow}\relax }}{81}{figure.caption.88}%
+\contentsline {figure}{\numberline {4.44}{\ignorespaces Quality Factor test result\relax }}{81}{figure.caption.89}%
+\contentsline {figure}{\numberline {4.45}{\ignorespaces Latency test results for step 1\relax }}{82}{figure.caption.90}%
+\contentsline {figure}{\numberline {4.46}{\ignorespaces Latency test results for step 2\relax }}{82}{figure.caption.91}%
+\contentsline {figure}{\numberline {4.47}{\ignorespaces Latency test results for step 3\relax }}{83}{figure.caption.92}%
+\contentsline {figure}{\numberline {4.48}{\ignorespaces Latency test results for step 4\relax }}{83}{figure.caption.93}%
+\contentsline {figure}{\numberline {4.49}{\ignorespaces Upper view of the case study organization\relax }}{84}{figure.caption.95}%
+\contentsline {figure}{\numberline {4.50}{\ignorespaces Case Study sampling distribution. {\color {black}The larger and more colorful red dots have a bigger percentage of diseased leaves. The brown cylinder represents the main tree trunk.}\relax }}{84}{figure.caption.96}%
+\contentsline {figure}{\numberline {4.51}{\ignorespaces Estimated PDF display. The larger and more colorful red dots have a bigger probability density. {\color {black}The brown cylinder represents the main tree trunk.}\relax }}{85}{figure.caption.97}%
+\contentsline {figure}{\numberline {4.52}{\ignorespaces Simplified Co-design diagram.\relax }}{87}{figure.caption.98}%
+\contentsline {figure}{\numberline {4.53}{\ignorespaces Proposed system overview\relax }}{89}{figure.caption.100}%
+\contentsline {figure}{\numberline {4.54}{\ignorespaces Dataset generation software diagram\relax }}{90}{figure.caption.102}%
+\contentsline {figure}{\numberline {4.55}{\ignorespaces Initial Screen\relax }}{90}{figure.caption.103}%
+\contentsline {figure}{\numberline {4.56}{\ignorespaces Counting Screen\relax }}{91}{figure.caption.104}%
+\contentsline {figure}{\numberline {4.57}{\ignorespaces Ending Screen\relax }}{91}{figure.caption.105}%
+\contentsline {figure}{\numberline {4.58}{\ignorespaces Number of Ants per Image Distribution\relax }}{92}{figure.caption.106}%
+\contentsline {figure}{\numberline {4.59}{\ignorespaces Data Augmentation Process Example\relax }}{93}{figure.caption.108}%
+\contentsline {figure}{\numberline {4.60}{\ignorespaces MobileNet Training Graph\relax }}{94}{figure.caption.110}%
+\contentsline {figure}{\numberline {4.61}{\ignorespaces EfficientNet Training Graph\relax }}{95}{figure.caption.111}%
+\contentsline {figure}{\numberline {4.62}{\ignorespaces Application output example\relax }}{97}{figure.caption.113}%
+\contentsline {figure}{\numberline {4.63}{\ignorespaces Confusion Matrix for the MobileNet\relax }}{98}{figure.caption.115}%
+\contentsline {figure}{\numberline {4.64}{\ignorespaces Confusion Matrix for the EfficientNet V2-B0\relax }}{99}{figure.caption.117}%
+\contentsline {figure}{\numberline {4.65}{\ignorespaces Scatter plot from the counting samples for the MobileNet. The red line indicates the ground truth.\relax }}{101}{figure.caption.119}%
+\contentsline {figure}{\numberline {4.66}{\ignorespaces Scatter plot from the counting samples for the EfficientNet V2-B0. The red line indicates the ground truth.\relax }}{102}{figure.caption.121}%
+\contentsline {figure}{\numberline {4.67}{\ignorespaces Boxplots indicating the time per using each backbone\relax }}{103}{figure.caption.122}%
+\contentsline {figure}{\numberline {4.68}{\ignorespaces Training information using the augmented dataset. On the left, we display the results for the MobileNet. On the right, we display the results for the EfficientNet-V2B0.\relax }}{103}{figure.caption.124}%
+\contentsline {figure}{\numberline {4.69}{\ignorespaces Confusion Matrix for the validation set using the MobileNet backbone\relax }}{104}{figure.caption.125}%
+\contentsline {figure}{\numberline {4.70}{\ignorespaces Confusion Matrix for the test set using the MobileNet backbone\relax }}{104}{figure.caption.126}%
+\contentsline {figure}{\numberline {4.71}{\ignorespaces Confusion Matrix for the validation set using the EfficientNet backbone\relax }}{105}{figure.caption.127}%
+\contentsline {figure}{\numberline {4.72}{\ignorespaces Confusion Matrix for the test set using the EfficientNet backbone\relax }}{105}{figure.caption.128}%
+\contentsline {figure}{\numberline {4.73}{\ignorespaces Counting graph for using the MobileNet backbone\relax }}{106}{figure.caption.129}%
+\contentsline {figure}{\numberline {4.74}{\ignorespaces Counting graph for using the EfficientNet backbone\relax }}{106}{figure.caption.130}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Simplified Co-design diagram.\relax }}{108}{figure.caption.131}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Wearable Device Prototype, proposed in \cite {jp2019software}.\relax }}{108}{figure.caption.132}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Proposed device architecture.\relax }}{111}{figure.caption.133}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \leavevmode {\color {black}Wearable device illustration}.\relax }}{112}{figure.caption.134}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Field research cooperative wearable system architecture.\relax }}{114}{figure.caption.136}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Results of the QoS tests on each device.\relax }}{118}{figure.caption.138}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces QoS average factor for each $k$ value.\relax }}{119}{figure.caption.139}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Simplified Co-design diagram.\relax }}{120}{figure.caption.140}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Schematic View of the Proposed Prototype\relax }}{121}{figure.caption.141}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Pulse-Oxymeter and Temperature Sensor Placement\relax }}{122}{figure.caption.143}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces HUD See-through Display\relax }}{123}{figure.caption.144}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Data Flow for the Proposed Prototype\relax }}{123}{figure.caption.145}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Current Consumption Probe Configuration\relax }}{124}{figure.caption.147}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Current Consumption Profiling Test Result\relax }}{126}{figure.caption.149}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Discharge Test Result\relax }}{127}{figure.caption.152}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces QR Code Acquisition Validation\relax }}{128}{figure.caption.154}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces MAX30100 Probe Readings\relax }}{129}{figure.caption.155}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces SpO$_2$ Readings Obtained from the Computer-on-Module\relax }}{129}{figure.caption.156}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Overview of the proposed architecture\relax }}{130}{figure.caption.157}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Face shield HUD Prototype.\relax }}{131}{figure.caption.159}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Overview of the elements of the produced prototype\relax }}{132}{figure.caption.160}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Proposed Interfaces Illustration\relax }}{133}{figure.caption.162}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Edge Computing Server Node\relax }}{133}{figure.caption.164}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Data Flow for the Experimental Setup on the Second Test\relax }}{137}{figure.caption.168}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Edge Server Node Algorithm\relax }}{138}{figure.caption.170}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Visualization Prototype Application Example\relax }}{139}{figure.caption.171}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Quality Factor Test Results\relax }}{141}{figure.caption.175}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Quality Factor Test Results\relax }}{142}{figure.caption.177}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Performance Test Results\relax }}{143}{figure.caption.179}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Simplified Co-design diagram.\relax }}{144}{figure.caption.180}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Architecture layers\relax }}{145}{figure.caption.182}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Wearable device schematics proposal\relax }}{145}{figure.caption.183}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Mobile edge computing platform\relax }}{146}{figure.caption.184}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces LSTM illustration\relax }}{147}{figure.caption.187}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Training session result\relax }}{148}{figure.caption.188}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces Confusion Matrix for the Validation Set\relax }}{151}{figure.caption.193}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Confusion Matrix for the Test Set\relax }}{153}{figure.caption.195}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Times measured from the Cloudlet\relax }}{153}{figure.caption.197}%
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Times measured from the Mobile Edge Device\relax }}{154}{figure.caption.198}%
+\contentsline {figure}{\numberline {5.40}{\ignorespaces Comparison from the measurements in both tests\relax }}{154}{figure.caption.199}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces New co-design approach\relax }}{156}{figure.caption.201}%

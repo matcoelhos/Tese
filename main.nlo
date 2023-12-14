@@ -1,0 +1,38 @@
+\nomenclatureentry{aCPS@[{CPS}]\begingroup Cyber-Physical System\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{aIoT@[{IoT}]\begingroup Internet of Things\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{aZB@[{ZB}]\begingroup Zettabytes\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{aNLP@[{NLP}]\begingroup Natural-Language Processing\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{aAI@[{AI}]\begingroup Artificial Intelligence\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aUAV@[{UAV}]\begingroup Unmanned Aerial Vehicles\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aWSN@[{WSN}]\begingroup Wireless Sensor Networks\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aHPS@[{HPS}]\begingroup Hybrid Pelletized Sinter\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aVANET@[{VANET}]\begingroup Vehicular Ad Hoc Network\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aASL@[{ASL}]\begingroup American Sign Language\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aCNN@[{CNN}]\begingroup Convolutional Neural Network\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aDNN@[{DNN}]\begingroup Deep Neural Network\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aLSTM@[{LSTM}]\begingroup Long Short-Term Memory\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aEEG@[{EEG}]\begingroup Electroencephalography\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aECG@[{ECG}]\begingroup Electrocardiography\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aPPG@[{PPG}]\begingroup Photoplesmiography\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aMCG@[{MCG}]\begingroup Magnetocardiography\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aFPGA@[{FPGA}]\begingroup Field-Programmable Gate Array\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aMEC@[{MEC}]\begingroup Mobile Edge Computing\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aHW@[{HW}]\begingroup Hardware\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aSW@[{SW}]\begingroup Software\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aIDS@[{IDS}]\begingroup Intrusion Detection System\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aSVM@[{SVM}]\begingroup Support Vector Machine\nomeqref {2.0}|nompageref}{12}
+\nomenclatureentry{aCPU@[{CPU}]\begingroup Central Processing Unit\nomeqref {3.0}|nompageref}{31}
+\nomenclatureentry{aPCB@[{PCB}]\begingroup Printed Circuit Board\nomeqref {3.0}|nompageref}{31}
+\nomenclatureentry{aWBAN@[{WBAN}]\begingroup Wireless Body-Area Network\nomeqref {3.0}|nompageref}{31}
+\nomenclatureentry{aVAE@[{VAE}]\begingroup Variational Autoencoders\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aGAN@[{GAN}]\begingroup Generative Adversarial Network\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aGRP@[{GRP}]\begingroup Gaussian Random Process\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aGPE@[{GPE}]\begingroup Gaussian Process Estimator\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aWLAN@[{WLAN}]\begingroup Wireless Local Area Network\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aMLP@[{MLP}]\begingroup Multi-Layer Perceptron\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aLIDAR@[{LIDAR}]\begingroup Light Detection and Ranging\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aIMU@[{IMU}]\begingroup Inertial Measurement Unit\nomeqref {4.0}|nompageref}{39}
+\nomenclatureentry{aCWS@[{CWS}]\begingroup Cooperative Wearable System\nomeqref {5.0}|nompageref}{107}
+\nomenclatureentry{aFR-CWS@[{FR-CWS}]\begingroup Field Research Cooperative Wearable System\nomeqref {5.0}|nompageref}{107}
+\nomenclatureentry{aQoS@[{QoS}]\begingroup Quality-of-Service\nomeqref {5.0}|nompageref}{107}
+\nomenclatureentry{aHUD@[{HUD}]\begingroup Head-Up Display\nomeqref {5.0}|nompageref}{107}

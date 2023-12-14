@@ -1,0 +1,1827 @@
+\begin{thebibliography}{251}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem[\MakeUppercase{Shinde} e \MakeUppercase{Shah}(2018)Shinde e
+  Shah]{shinde2018review}
+\MakeUppercase{Shinde, P.~P., Shah, S.}
+\newblock \enquote{A review of machine learning and deep learning
+  applications}. In: \emph{2018 Fourth international conference on computing
+  communication control and automation (ICCUBEA)}, pp. 1--6. IEEE, 2018.
+
+\bibitem[\MakeUppercase{Khan}\emph{ et~al.}(2019)Khan, Ahmed, Hakak, Yaqoob, e
+  Ahmed]{khan2019edge}
+\MakeUppercase{Khan, W.~Z., Ahmed, E., Hakak, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge computing: A survey}, \emph{Future Generation Computer
+  Systems}, v.~97, \penalty0 pp.~219--235, 2019.
+
+\bibitem[\MakeUppercase{Shi} e \MakeUppercase{Dustdar}(2016)Shi e
+  Dustdar]{shi2016promise}
+\MakeUppercase{Shi, W., Dustdar, S.}
+\newblock \enquote{The promise of edge computing}, \emph{Computer}, v.~49,
+  n.~5, \penalty0 pp.~78--81, 2016.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2019{\natexlab{a}})Silva, Amorim,
+  Ribeiro, e Oliveira]{silva2019field}
+\MakeUppercase{Silva, M.~C., Amorim, V.~J., Ribeiro, S.~P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Field Research Cooperative Wearable Systems: Challenges in
+  Requirements, Design and Validation}, \emph{Sensors}, v.~19, n.~20, \penalty0
+  pp.~4417, 2019{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2021{\natexlab{a}})Silva,
+  Ribeiro., Bianchi, e Oliveira]{iceis21leaf}
+\MakeUppercase{Silva, M., Ribeiro., S., Bianchi, A., \MakeLowercase{et~al.}}
+\newblock \enquote{An Improved Deep Learning Application for Leaf Shape
+  Reconstruction and Damage Estimation}. In: \emph{Proceedings of the 23rd
+  International Conference on Enterprise Information Systems - Volume 1:
+  ICEIS,}, pp. 484--495. INSTICC, SciTePress, 2021{\natexlab{a}}.
+\newblock ISBN: 978-989-758-509-8.
+\newblock \doi{10.5220/0010444204840495}.
+
+\bibitem[\MakeUppercase{JP~Amorim}\emph{ et~al.}(2019)JP~Amorim, C~Silva, e
+  AR~Oliveira]{jp2019software}
+\MakeUppercase{JP~Amorim, V., C~Silva, M., AR~Oliveira, R.}
+\newblock \enquote{Software and Hardware Requirements and Trade-Offs in
+  Operating Systems for Wearables: A Tool to Improve Devices’ Performance},
+  \emph{Sensors}, v.~19, n.~8, \penalty0 pp.~1904, 2019.
+
+\bibitem[\MakeUppercase{Zanero}(2017)Zanero]{zanero2017cyber}
+\MakeUppercase{Zanero, S.}
+\newblock \enquote{Cyber-physical systems}, \emph{Computer}, v.~50, n.~4,
+  \penalty0 pp.~14--16, 2017.
+
+\bibitem[\MakeUppercase{Alguliyev}\emph{ et~al.}(2018)Alguliyev, Imamverdiyev,
+  e Sukhostat]{alguliyev2018cyber}
+\MakeUppercase{Alguliyev, R., Imamverdiyev, Y., Sukhostat, L.}
+\newblock \enquote{Cyber-physical systems and their security issues},
+  \emph{Computers in Industry}, v.~100, \penalty0 pp.~212--223, 2018.
+
+\bibitem[\MakeUppercase{Baheti} e \MakeUppercase{Gill}(2011)Baheti e
+  Gill]{baheti2011cyber}
+\MakeUppercase{Baheti, R., Gill, H.}
+\newblock \enquote{Cyber-physical systems}, \emph{The impact of control
+  technology}, v.~12, n.~1, \penalty0 pp.~161--166, 2011.
+
+\bibitem[\MakeUppercase{Shi}\emph{ et~al.}(2011)Shi, Wan, Yan, e
+  Suo]{shi2011survey}
+\MakeUppercase{Shi, J., Wan, J., Yan, H., \MakeLowercase{et~al.}}
+\newblock \enquote{A survey of cyber-physical systems}. In: \emph{2011
+  international conference on wireless communications and signal processing
+  (WCSP)}, pp. 1--6. IEEE, 2011.
+
+\bibitem[\MakeUppercase{Derler}\emph{ et~al.}(2011)Derler, Lee, e
+  Vincentelli]{derler2011modeling}
+\MakeUppercase{Derler, P., Lee, E.~A., Vincentelli, A.~S.}
+\newblock \enquote{Modeling cyber--physical systems}, \emph{Proceedings of the
+  IEEE}, v.~100, n.~1, \penalty0 pp.~13--28, 2011.
+
+\bibitem[\MakeUppercase{Haque}\emph{ et~al.}(2014)Haque, Aziz, e
+  Rahman]{haque2014review}
+\MakeUppercase{Haque, S.~A., Aziz, S.~M., Rahman, M.}
+\newblock \enquote{Review of cyber-physical system in healthcare},
+  \emph{international journal of distributed sensor networks}, v.~10, n.~4,
+  \penalty0 pp.~217415, 2014.
+
+\bibitem[\MakeUppercase{Mann}(1997)Mann]{mann1997wearable}
+\MakeUppercase{Mann, S.}
+\newblock \enquote{Wearable computing: A first step toward personal imaging},
+  \emph{Computer}, v.~30, n.~2, \penalty0 pp.~25--32, 1997.
+
+\bibitem[\MakeUppercase{Starner}(1996)Starner]{starner1996human}
+\MakeUppercase{Starner, T.}
+\newblock \enquote{Human-powered wearable computing}, \emph{IBM systems
+  Journal}, v.~35, n. 3.4, \penalty0 pp.~618--629, 1996.
+
+\bibitem[\MakeUppercase{Roggen}\emph{ et~al.}(2011)Roggen, Magnenat, Waibel, e
+  Tr{\"o}ster]{roggen2011wearable}
+\MakeUppercase{Roggen, D., Magnenat, S., Waibel, M., \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable computing}, \emph{IEEE Robotics \& Automation
+  Magazine}, v.~18, n.~2, \penalty0 pp.~83--95, 2011.
+
+\bibitem[\MakeUppercase{Jhajharia}\emph{ et~al.}(2014)Jhajharia, Pal, e
+  Verma]{jhajharia2014wearable}
+\MakeUppercase{Jhajharia, S., Pal, S., Verma, S.}
+\newblock \enquote{Wearable computing and its application}, \emph{International
+  Journal of Computer Science and Information Technologies}, v.~5, n.~4,
+  \penalty0 pp.~5700--5704, 2014.
+
+\bibitem[\MakeUppercase{Soh}\emph{ et~al.}(2015)Soh, Vandenbosch, Mercuri, e
+  Schreurs]{soh2015wearable}
+\MakeUppercase{Soh, P.~J., Vandenbosch, G.~A., Mercuri, M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable wireless health monitoring: Current developments,
+  challenges, and future trends}, \emph{IEEE Microwave Magazine}, v.~16, n.~4,
+  \penalty0 pp.~55--70, 2015.
+
+\bibitem[\MakeUppercase{Risling}(2017)Risling]{risling2017educating}
+\MakeUppercase{Risling, T.}
+\newblock \enquote{Educating the nurses of 2025: Technology trends of the next
+  decade}, \emph{Nurse education in practice}, v.~22, \penalty0 pp.~89--92,
+  2017.
+
+\bibitem[\MakeUppercase{Vogenberg} e \MakeUppercase{Santilli}(2018)Vogenberg e
+  Santilli]{vogenberg2018healthcare}
+\MakeUppercase{Vogenberg, F.~R., Santilli, J.}
+\newblock \enquote{Healthcare trends for 2018}, \emph{American Health \& Drug
+  Benefits}, v.~11, n.~1, \penalty0 pp.~48, 2018.
+
+\bibitem[\MakeUppercase{Liu}\emph{ et~al.}(2015)Liu, Peng, Liu, e
+  Huang]{liu2015sensor}
+\MakeUppercase{Liu, L., Peng, Y., Liu, M., \MakeLowercase{et~al.}}
+\newblock \enquote{Sensor-based human activity recognition system with a
+  multilayered model using time series shapelets}, \emph{Knowledge-Based
+  Systems}, v.~90, \penalty0 pp.~138--152, 2015.
+
+\bibitem[\MakeUppercase{Zhang}\emph{ et~al.}(2018)Zhang, Gravina, Lu, Villari,
+  e Fortino]{zhang2018pea}
+\MakeUppercase{Zhang, Y., Gravina, R., Lu, H., \MakeLowercase{et~al.}}
+\newblock \enquote{PEA: Parallel electrocardiogram-based authentication for
+  smart healthcare systems}, \emph{Journal of Network and Computer
+  Applications}, v.~117, \penalty0 pp.~10--16, 2018.
+
+\bibitem[\MakeUppercase{Qiu}\emph{ et~al.}(2018)Qiu, Wang, Zhao, Liu, Li,
+  Jiang, e Fortino]{qiu2018body}
+\MakeUppercase{Qiu, S., Wang, Z., Zhao, H., \MakeLowercase{et~al.}}
+\newblock \enquote{Body sensor network based robust gait analysis: Toward
+  clinical and at home use}, \emph{IEEE Sensors Journal}, 2018.
+
+\bibitem[\MakeUppercase{Pace}\emph{ et~al.}(2018)Pace, Aloi, Gravina,
+  Caliciuri, Fortino, e Liotta]{pace2018edge}
+\MakeUppercase{Pace, P., Aloi, G., Gravina, R., \MakeLowercase{et~al.}}
+\newblock \enquote{An edge-based architecture to support efficient applications
+  for healthcare industry 4.0}, \emph{IEEE Transactions on Industrial
+  Informatics}, v.~15, n.~1, \penalty0 pp.~481--489, 2018.
+
+\bibitem[\MakeUppercase{Kaya}\emph{ et~al.}(2019)Kaya, Liu, Ho, Yelamarthi,
+  Miller, Edwards, e Stannard]{kaya2019wearable}
+\MakeUppercase{Kaya, T., Liu, G., Ho, J., \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable Sweat Sensors: Background and Current Trends},
+  \emph{Electroanalysis}, v.~31, n.~3, \penalty0 pp.~411--421, 2019.
+
+\bibitem[\MakeUppercase{Camomilla}\emph{ et~al.}(2018)Camomilla, Bergamini,
+  Fantozzi, e Vannozzi]{camomilla2018trends}
+\MakeUppercase{Camomilla, V., Bergamini, E., Fantozzi, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Trends supporting the in-field use of wearable inertial
+  sensors for sport performance evaluation: A systematic review},
+  \emph{Sensors}, v.~18, n.~3, \penalty0 pp.~873, 2018.
+
+\bibitem[\MakeUppercase{Fu} e \MakeUppercase{Hwang}(2018)Fu e
+  Hwang]{fu2018trends}
+\MakeUppercase{Fu, Q.-K., Hwang, G.-J.}
+\newblock \enquote{Trends in mobile technology-supported collaborative
+  learning: A systematic review of journal publications from 2007 to 2016},
+  \emph{Computers \& Education}, v.~119, \penalty0 pp.~129--143, 2018.
+
+\bibitem[\MakeUppercase{Chang}\emph{ et~al.}(2018)Chang, Lai, e
+  Hwang]{chang2018trends}
+\MakeUppercase{Chang, C.-Y., Lai, C.-L., Hwang, G.-J.}
+\newblock \enquote{Trends and research issues of mobile learning studies in
+  nursing education: A review of academic publications from 1971 to 2016},
+  \emph{Computers \& Education}, v.~116, \penalty0 pp.~28--48, 2018.
+
+\bibitem[\MakeUppercase{Kong}\emph{ et~al.}(2018{\natexlab{a}})Kong, Luo,
+  Huang, e Yang]{kong2018industrial}
+\MakeUppercase{Kong, X.~T., Luo, H., Huang, G.~Q., \MakeLowercase{et~al.}}
+\newblock \enquote{Industrial wearable system: the human-centric empowering
+  technology in Industry 4.0}, \emph{Journal of Intelligent Manufacturing}, pp.
+  1--17, 2018{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Rice}\emph{ et~al.}(2018)Rice, Ma, Tay, Kaliappan, Koh,
+  Tan, e Ng]{rice2018evaluating}
+\MakeUppercase{Rice, M., Ma, K.-T., Tay, H.~H., \MakeLowercase{et~al.}}
+\newblock \enquote{Evaluating an augmented remote assistance platform to
+  support industrial applications}. In: \emph{2018 IEEE 4th World Forum on
+  Internet of Things (WF-IoT)}, pp. 592--597. IEEE, 2018.
+
+\bibitem[\MakeUppercase{Li}\emph{ et~al.}(2018)Li, Wang, Li, Li, Yang, Liu,
+  et~al.]{li2018hand}
+\MakeUppercase{Li, Y., Wang, T., Li, L., \MakeLowercase{et~al.}}
+\newblock \enquote{Hand Gesture Recognition and Real-time Game Control Based on
+  A Wearable Band with 6-axis Sensors}. In: \emph{2018 International Joint
+  Conference on Neural Networks (IJCNN)}, pp. 1--6. IEEE, 2018.
+
+\bibitem[\MakeUppercase{Haghi}\emph{ et~al.}(2017)Haghi, Thurow, e
+  Stoll]{haghi2017wearable}
+\MakeUppercase{Haghi, M., Thurow, K., Stoll, R.}
+\newblock \enquote{Wearable devices in medical internet of things: scientific
+  research and commercially available devices}, \emph{Healthcare informatics
+  research}, v.~23, n.~1, \penalty0 pp.~4--15, 2017.
+
+\bibitem[\MakeUppercase{Bhatt}\emph{ et~al.}(2017)Bhatt, Dey, e
+  Ashour]{bhatt2017internet}
+\MakeUppercase{Bhatt, C., Dey, N., Ashour, A.~S.}
+\newblock \enquote{Internet of things and big data technologies for next
+  generation healthcare}, 2017.
+
+\bibitem[\MakeUppercase{Constant}\emph{ et~al.}(2017)Constant, Borthakur,
+  Abtahi, Dubey, e Mankodiya]{constant2017fog}
+\MakeUppercase{Constant, N., Borthakur, D., Abtahi, M., \MakeLowercase{et~al.}}
+\newblock \enquote{Fog-assisted wiot: A smart fog gateway for end-to-end
+  analytics in wearable internet of things}, \emph{arXiv preprint
+  arXiv:1701.08680}, 2017.
+
+\bibitem[\MakeUppercase{Kong}\emph{ et~al.}(2018{\natexlab{b}})Kong, Yang,
+  Huang, e Luo]{kong2018impact}
+\MakeUppercase{Kong, X.~T., Yang, X., Huang, G.~Q., \MakeLowercase{et~al.}}
+\newblock \enquote{The impact of industrial wearable system on industry 4.0}.
+  In: \emph{2018 IEEE 15th International Conference on Networking, Sensing and
+  Control (ICNSC)}, pp. 1--6. IEEE, 2018{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Kos}\emph{ et~al.}(2019)Kos, Milutinovi{\'c}, e
+  Umek]{kos2019challenges}
+\MakeUppercase{Kos, A., Milutinovi{\'c}, V., Umek, A.}
+\newblock \enquote{Challenges in wireless communication for connected sensors
+  and wearable devices used in sport biofeedback applications}, \emph{Future
+  generation computer systems}, v.~92, \penalty0 pp.~582--592, 2019.
+
+\bibitem[\MakeUppercase{Li}\emph{ et~al.}(2017)Li, Peng, Gao, Xiao, e
+  Chan]{li2017smartphone}
+\MakeUppercase{Li, J., Peng, Z., Gao, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Smartphone-assisted energy efficient data communication for
+  wearable devices}, \emph{Computer Communications}, v.~105, \penalty0
+  pp.~33--43, 2017.
+
+\bibitem[\MakeUppercase{Varghese}\emph{ et~al.}(2016)Varghese, Wang, Barbhuiya,
+  Kilpatrick, e Nikolopoulos]{varghese2016challenges}
+\MakeUppercase{Varghese, B., Wang, N., Barbhuiya, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Challenges and opportunities in edge computing}. In:
+  \emph{2016 IEEE international conference on smart cloud (SmartCloud)}, pp.
+  20--26. IEEE, 2016.
+
+\bibitem[\MakeUppercase{Cao}\emph{ et~al.}(2020)Cao, Liu, Meng, e
+  Sun]{cao2020overview}
+\MakeUppercase{Cao, K., Liu, Y., Meng, G., \MakeLowercase{et~al.}}
+\newblock \enquote{An overview on edge computing research}, \emph{IEEE access},
+  v.~8, \penalty0 pp.~85714--85728, 2020.
+
+\bibitem[\MakeUppercase{El-Shorbagy}(2021)El-Shorbagy]{el20215g}
+\MakeUppercase{El-Shorbagy, A.-m.}
+\newblock \enquote{5G Technology and the Future of Architecture},
+  \emph{Procedia Computer Science}, v.~182, \penalty0 pp.~121--131, 2021.
+
+\bibitem[\MakeUppercase{Jiang}\emph{ et~al.}(2022)Jiang, Li, Luo, Yin, e
+  Kaynak]{jiang2022quo}
+\MakeUppercase{Jiang, Y., Li, X., Luo, H., \MakeLowercase{et~al.}}
+\newblock \enquote{Quo vadis artificial intelligence?} \emph{Discover
+  Artificial Intelligence}, v.~2, n.~1, \penalty0 pp.~4, 2022.
+
+\bibitem[\MakeUppercase{McCarthy}\emph{ et~al.}(2007)McCarthy
+  et~al.]{mccarthy2007artificial}
+\MakeUppercase{McCarthy, J., others}.
+\newblock \enquote{What is artificial intelligence}, 2007.
+
+\bibitem[\MakeUppercase{El~Naqa} e \MakeUppercase{Murphy}(2015)El~Naqa e
+  Murphy]{el2015machine}
+\MakeUppercase{El~Naqa, I., Murphy, M.~J.}
+\newblock \enquote{What is machine learning?} In: \emph{machine learning in
+  radiation oncology}, Springer, pp. 3--11, 2015.
+
+\bibitem[\MakeUppercase{LeCun}\emph{ et~al.}(2015)LeCun, Bengio, e
+  Hinton]{lecun2015deep}
+\MakeUppercase{LeCun, Y., Bengio, Y., Hinton, G.}
+\newblock \enquote{Deep learning}, \emph{nature}, v.~521, n. 7553, \penalty0
+  pp.~436--444, 2015.
+
+\bibitem[\MakeUppercase{Gunning}\emph{ et~al.}(2019)Gunning, Stefik, Choi,
+  Miller, Stumpf, e Yang]{gunning2019xai}
+\MakeUppercase{Gunning, D., Stefik, M., Choi, J., \MakeLowercase{et~al.}}
+\newblock \enquote{XAI—Explainable artificial intelligence}, \emph{Science
+  Robotics}, v.~4, n.~37, \penalty0 pp.~eaay7120, 2019.
+
+\bibitem[\MakeUppercase{Liu}\emph{ et~al.}(2020{\natexlab{a}})Liu, Liu, Wang,
+  Lombardi, e Han]{liu2020survey}
+\MakeUppercase{Liu, Y., Liu, S., Wang, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{A survey of stochastic computing neural networks for machine
+  learning applications}, \emph{IEEE Transactions on Neural Networks and
+  Learning Systems}, v.~32, n.~7, \penalty0 pp.~2809--2824, 2020{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Sze}\emph{ et~al.}(2017)Sze, Chen, Emer, Suleiman, e
+  Zhang]{sze2017hardware}
+\MakeUppercase{Sze, V., Chen, Y.-H., Emer, J., \MakeLowercase{et~al.}}
+\newblock \enquote{Hardware for machine learning: Challenges and
+  opportunities}. In: \emph{2017 IEEE Custom Integrated Circuits Conference
+  (CICC)}, pp. 1--8. IEEE, 2017.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2023)Silva, Felisberto, Batista,
+  Bianchi, Ribeiro, e Oliveira]{Silva2023iceis}
+\MakeUppercase{Silva, M., Felisberto, B., Batista, M., \MakeLowercase{et~al.}}
+\newblock \enquote{An Automatic Ant Counting and Distribution Estimation System
+  Using Convolutional Neural Networks}. In: \emph{Proceedings of the 25th
+  International Conference on Enterprise Information Systems}. {SCITEPRESS} -
+  Science and Technology Publications, 2023.
+\newblock \doi{10.5220/0011968900003467}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.5220/0011968900003467}\textgreater .
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2022{\natexlab{a}})Silva, Bianchi,
+  Oliveira, e Ribeiro]{silva2022designing}
+\MakeUppercase{Silva, M.~C., Bianchi, A. G.~C., Oliveira, R. A.~R.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Designing a Multiple-User Wearable Edge AI system towards
+  Human Activity Recognition}. In: \emph{2022 XII Brazilian Symposium on
+  Computing Systems Engineering (SBESC)}, pp. 1--8. IEEE, 2022{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2022{\natexlab{b}})Silva, Bianchi,
+  Ribeiro, Silva, e Oliveira]{silva2022edge}
+\MakeUppercase{Silva, M.~C., Bianchi, A. G.~C., Ribeiro, S.~P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge Computing Smart Healthcare Cooperative Architecture for
+  COVID-19 Medical Facilities}, \emph{IEEE Latin America Transactions}, v.~20,
+  n.~10, \penalty0 pp.~2229--2236, 2022{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2022{\natexlab{c}})Silva, Bianchi,
+  Ribeiro, e Oliveira]{silva2022bringing}
+\MakeUppercase{Silva, M.~C., Bianchi, A.~G., Ribeiro, S.~P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Bringing Deep Learning to the Fields and Forests: Leaf
+  Reconstruction and Shape Estimation}, \emph{SN Computer Science}, v.~3, n.~3,
+  \penalty0 pp.~1--14, 2022{\natexlab{c}}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2021{\natexlab{b}})Silva,
+  da~Silva, Delabrida, Bianchi, Ribeiro, Silva, e Oliveira]{silva2021wearable}
+\MakeUppercase{Silva, M.~C., da~Silva, J.~C., Delabrida, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable Edge AI Applications for Ecological Environments},
+  \emph{Sensors}, v.~21, n.~15, \penalty0 pp.~5082, 2021{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Silva.}\emph{ et~al.}(2021)Silva., Oliveira.,
+  D’Angelo., Garrocho., e Amorim.]{iceis21faceshield}
+\MakeUppercase{Silva., M., Oliveira., R., D’Angelo., T.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Faceshield HUD: Extended Usage of Wearable Computing on the
+  COVID-19 Frontline}. In: \emph{Proceedings of the 23rd International
+  Conference on Enterprise Information Systems - Volume 1: ICEIS,}, pp.
+  893--900. INSTICC, SciTePress, 2021.
+\newblock ISBN: 978-989-758-509-8.
+\newblock \doi{10.5220/0010444308930900}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2021{\natexlab{a}})Silva,
+  {Ferreira da Silva}, e Oliveira]{iceis21orange}
+\MakeUppercase{Silva, M., {Ferreira da Silva}, J., Oliveira, R.}
+\newblock \enquote{IDiSSC: Edge-computing-based Intelligent Diagnosis Support
+  System for Citrus Inspection}. In: \emph{Proceedings of the 23rd
+  International Conference on Enterprise Information Systems - Volume 1:
+  ICEIS,}, pp. 685--692. INSTICC, SciTePress, 2021{\natexlab{a}}.
+\newblock ISBN: 978-989-758-509-8.
+\newblock \doi{10.5220/0010444106850692}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2021{\natexlab{b}})Silva, Bianchi,
+  Ribeiro, e Oliveira]{silva2021leaf}
+\MakeUppercase{Silva, M.~C., Bianchi, A.~G., Ribeiro, S.~P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Leaf shape reconstruction and damage estimation using a
+  U-net-based conditional GAN}. In: \emph{Proceedings of the 36th Annual ACM
+  Symposium on Applied Computing}, pp. 1106--1109, 2021{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2020)Silva, {Martins de Sousa},
+  Barbosa, e Oliveira]{iceis20robotics}
+\MakeUppercase{Silva, M., {Martins de Sousa}, F., Barbosa, D.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Constraints and Challenges in Designing Applications for
+  Industry 4.0: A Functional Approach}. In: \emph{Proceedings of the 22nd
+  International Conference on Enterprise Information Systems - Volume 1:
+  ICEIS,}, pp. 767--774. INSTICC, SciTePress, 2020.
+\newblock ISBN: 978-989-758-423-7.
+\newblock \doi{10.5220/0009570307670774}.
+
+\bibitem[\MakeUppercase{Alvim}\emph{ et~al.}(2023)Alvim, da~Silva, Amorim,
+  Lazaroni, Silva, e Oliveira]{alvim2023towards}
+\MakeUppercase{Alvim, P.~B., da~Silva, J.~C., Amorim, V.~J.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Towards a mobile system with a new wearable device and an AI
+  application for walking and running activities}. In: \emph{Anais do L
+  Semin{\'a}rio Integrado de Software e Hardware}, pp. 155--166. SBC, 2023.
+
+\bibitem[\MakeUppercase{Santos}\emph{ et~al.}(2023{\natexlab{a}})Santos, Silva,
+  Santos, Klippel, e Oliveira]{santos2023mobile}
+\MakeUppercase{Santos, R. C. C. d.~M., Silva, M.~C., Santos, R.~L.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{A Mobile Robot Based on Edge AI}. In: \emph{Anais do L
+  Semin{\'a}rio Integrado de Software e Hardware}, pp. 191--202. SBC,
+  2023{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Santos}\emph{ et~al.}(2023{\natexlab{b}})Santos, Silva,
+  Santos, Klippel, e Oliveira]{Santos2023}
+\MakeUppercase{Santos, R., Silva, M., Santos, R., \MakeLowercase{et~al.}}
+\newblock \enquote{Towards Autonomous Mobile Inspection Robots Using Edge
+  {AI}}. In: \emph{Proceedings of the 25th International Conference on
+  Enterprise Information Systems}. {SCITEPRESS} - Science and Technology
+  Publications, 2023{\natexlab{b}}.
+\newblock \doi{10.5220/0011972200003467}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.5220/0011972200003467}\textgreater .
+
+\bibitem[\MakeUppercase{Cardoso}\emph{ et~al.}(2023)Cardoso, Silva, Meira,
+  Oliveira, e Bianchi]{Cardoso2023}
+\MakeUppercase{Cardoso, F., Silva, M., Meira, N., \MakeLowercase{et~al.}}
+\newblock \enquote{Towards a Novel Edge {AI} System for Particle Size Detection
+  in Mineral Processing Plants}. In: \emph{Proceedings of the 25th
+  International Conference on Enterprise Information Systems}. {SCITEPRESS} -
+  Science and Technology Publications, 2023.
+\newblock \doi{10.5220/0011748000003467}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.5220/0011748000003467}\textgreater .
+
+\bibitem[\MakeUppercase{Garrocho}\emph{ et~al.}(2023)Garrocho, de~Sousa, Silva,
+  e Oliveira]{garrocho2023blockchain}
+\MakeUppercase{Garrocho, C.~T., de~Sousa, F.~L., Silva, M.~C.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Blockchain-Based Smart Contract and Edge AI Applied in a
+  Multirobot System: An Approach}, \emph{IEEE Robotics \& Automation Magazine},
+  2023.
+
+\bibitem[\MakeUppercase{da~Silva}\emph{ et~al.}(2023)da~Silva, Silva, Luz,
+  Delabrida, e Oliveira]{da2023using}
+\MakeUppercase{da~Silva, J.~C., Silva, M.~C., Luz, E.~J.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Using Mobile Edge AI to Detect and Map Diseases in Citrus
+  Orchards}, \emph{Sensors}, v.~23, n.~4, \penalty0 pp.~2165, 2023.
+
+\bibitem[\MakeUppercase{da~Silva}\emph{ et~al.}(2022{\natexlab{a}})da~Silva,
+  de~Amorim, de~Oliveira~Lazaroni, Oliveira, e Silva]{da2022towards2}
+\MakeUppercase{da~Silva, J. C.~F., de~Amorim, V. J.~P., de~Oliveira~Lazaroni,
+  P.~S., \MakeLowercase{et~al.}}
+\newblock \enquote{Towards novel smart wearable sensors to classify
+  subject-specific human walking activities}. In: \emph{Anais Estendidos do XII
+  Simp{\'o}sio Brasileiro de Engenharia de Sistemas Computacionais}, pp.
+  68--73. SBC, 2022{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{da~Silva}\emph{ et~al.}(2022{\natexlab{b}})da~Silva,
+  Silva, Delabrida, da~Silva~Luz, e Oliveira]{da2022novel}
+\MakeUppercase{da~Silva, J.~C., Silva, M.~C., Delabrida, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{A novel intelligent mobile application using human-centered
+  AR: A case study in orange inspection}. In: \emph{Anais Estendidos do XXI
+  Simp{\'o}sio Brasileiro de Fatores Humanos em Sistemas Computacionais}, pp.
+  72--75. SBC, 2022{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Vitor}\emph{ et~al.}(2022)Vitor, Keller, Barbosa,
+  Diniz, Silva, Oliveira, e Delabrida~S]{vitor2022enabling}
+\MakeUppercase{Vitor, R.~F., Keller, B.~N., Barbosa, D.~L.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Enabling Digital Twins in Industry 4.0}. In:
+  \emph{International Conference on Enterprise Information Systems}, pp.
+  465--488. Springer, 2022.
+
+\bibitem[\MakeUppercase{de~C~Meira}\emph{ et~al.}(2022)de~C~Meira, Silva,
+  Vieira, Souza, e Oliveira]{de2022edge}
+\MakeUppercase{de~C~Meira, N.~F., Silva, M.~C., Vieira, C.~B.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge Deep Learning Towards the Metallurgical Industry:
+  Improving the Hybrid Pelletized Sinter (HPS) Process}. In:
+  \emph{International Conference on Enterprise Information Systems}, pp.
+  149--167. Springer, 2022.
+
+\bibitem[\MakeUppercase{da~Silva}\emph{ et~al.}(2022{\natexlab{c}})da~Silva,
+  Silva, e Oliveira]{da2022towards}
+\MakeUppercase{da~Silva, J. C.~F., Silva, M.~C., Oliveira, R.~A.}
+\newblock \enquote{Towards a novel wearable solution for citrus inspection
+  using Edge AI}. In: \emph{2022 IEEE 46th Annual Computers, Software, and
+  Applications Conference (COMPSAC)}, pp. 966--971. IEEE, 2022{\natexlab{c}}.
+
+\bibitem[\MakeUppercase{de~Sousa}\emph{ et~al.}(2022)de~Sousa, Silva, e
+  Oliveira]{de2022applying}
+\MakeUppercase{de~Sousa, F. L.~M., Silva, M.~C., Oliveira, R. A.~R.}
+\newblock \enquote{Applying Edge AI towards Deep-learning-based Monocular
+  Visual Odometry Model for Mobile Robotics.} In: \emph{ICEIS (1)}, pp.
+  561--568, 2022.
+
+\bibitem[\MakeUppercase{Meira}\emph{ et~al.}(2022)Meira, Silva, Bianchi,
+  Vieira, Souza, e Oliveira]{visapp22hps}
+\MakeUppercase{Meira, N., Silva, M.~C., Bianchi, A.~G., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge Deep Learning Applied to Granulometric Analysis on
+  Quasi-particles from the Hybrid Pelletized Sinter (HPS) Process}. In:
+  \emph{Proceedings of the 17th International Joint Conference on Computer
+  Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP
+  2022) - Volume 4: VISAPP}, pp. 462--469. INSTICC, SciTePress, 2022.
+\newblock ISBN: 978-989-758-555-5.
+\newblock \doi{10.5220/0010836900003124}.
+
+\bibitem[\MakeUppercase{Klippel}\emph{ et~al.}(2022)Klippel, Bianchi,
+  Delabrida, Silva, Garrocho, Moreira, e Oliveira]{klippel2022deep}
+\MakeUppercase{Klippel, E., Bianchi, A. G.~C., Delabrida, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Deep Learning Approach at the Edge to Detect Iron Ore Type},
+  \emph{Sensors}, v.~22, n.~1, \penalty0 pp.~169, 2022.
+
+\bibitem[\MakeUppercase{de~Sousa}\emph{ et~al.}(2021{\natexlab{a}})de~Sousa,
+  da~Silva, de~Meira~Santos, Silva, e Oliveira]{de2021deep}
+\MakeUppercase{de~Sousa, F. L.~M., da~Silva, M.~J., de~Meira~Santos, R. C.~C.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Deep-Learning-Based Embedded ADAS System}. In: \emph{2021 XI
+  Brazilian Symposium on Computing Systems Engineering (SBESC)}, pp. 1--8.
+  IEEE, 2021{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{de~Sousa}\emph{ et~al.}(2021{\natexlab{b}})de~Sousa,
+  Meira, Oliveira, e Silva]{de2021deep2}
+\MakeUppercase{de~Sousa, F. L.~M., Meira, N. F. d.~C., Oliveira, R. A.~R.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Deep-Learning-Based Visual Odometry Models for Mobile
+  Robotics}. In: \emph{Anais Estendidos do XI Simp{\'o}sio Brasileiro de
+  Engenharia de Sistemas Computacionais}, pp. 122--127. SBC,
+  2021{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Vitor}\emph{ et~al.}(2021)Vitor, Keller, Barbosa,
+  Diniz, Silva, Oliveira, e S.]{iceis21dt}
+\MakeUppercase{Vitor, R., Keller, B., Barbosa, D., \MakeLowercase{et~al.}}
+\newblock \enquote{Synchronous and Asynchronous Requirements for Digital Twins
+  Applications in Industry 4.0}. In: \emph{Proceedings of the 23rd
+  International Conference on Enterprise Information Systems - Volume 2:
+  ICEIS,}, pp. 637--647. INSTICC, SciTePress, 2021.
+\newblock ISBN: 978-989-758-509-8.
+\newblock \doi{10.5220/0010444406370647}.
+
+\bibitem[\MakeUppercase{Meira}\emph{ et~al.}(2021)Meira, Silva, Oliveira,
+  Souza, D’Angelo, e Vieira]{iceis21hps}
+\MakeUppercase{Meira, N., Silva, M., Oliveira, R., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge Deep Learning Applied to Granulometric Analysis on
+  Quasi-particles from the Hybrid Pelletized Sinter (HPS) Process}. In:
+  \emph{Proceedings of the 23rd International Conference on Enterprise
+  Information Systems - Volume 1: ICEIS,}, pp. 527--535. INSTICC, SciTePress,
+  2021.
+\newblock ISBN: 978-989-758-509-8.
+\newblock \doi{10.5220/0010458805270535}.
+
+\bibitem[\MakeUppercase{Satyanarayanan}(2017)Satyanarayanan]{satyanarayanan2017emergence}
+\MakeUppercase{Satyanarayanan, M.}
+\newblock \enquote{The emergence of edge computing}, \emph{Computer}, v.~50,
+  n.~1, \penalty0 pp.~30--39, 2017.
+
+\bibitem[\MakeUppercase{Deng}\emph{ et~al.}(2020)Deng, Zhao, Fang, Yin,
+  Dustdar, e Zomaya]{deng2020edge}
+\MakeUppercase{Deng, S., Zhao, H., Fang, W., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge intelligence: The confluence of edge computing and
+  artificial intelligence}, \emph{IEEE Internet of Things Journal}, v.~7, n.~8,
+  \penalty0 pp.~7457--7469, 2020.
+
+\bibitem[\MakeUppercase{Zhou}\emph{ et~al.}(2019)Zhou, Chen, Li, Zeng, Luo, e
+  Zhang]{zhou2019edge}
+\MakeUppercase{Zhou, Z., Chen, X., Li, E., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge intelligence: Paving the last mile of artificial
+  intelligence with edge computing}, \emph{Proceedings of the IEEE}, v.~107,
+  n.~8, \penalty0 pp.~1738--1762, 2019.
+
+\bibitem[\MakeUppercase{Liu}\emph{ et~al.}(2020{\natexlab{b}})Liu, Peng, Shou,
+  Chen, e Chen]{liu2020toward}
+\MakeUppercase{Liu, Y., Peng, M., Shou, G., \MakeLowercase{et~al.}}
+\newblock \enquote{Toward edge intelligence: Multiaccess edge computing for 5G
+  and Internet of Things}, \emph{IEEE Internet of Things Journal}, v.~7, n.~8,
+  \penalty0 pp.~6722--6747, 2020{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Wang}\emph{ et~al.}(2019)Wang, Han, Wang, Zhao, Chen, e
+  Chen]{wang2019edge}
+\MakeUppercase{Wang, X., Han, Y., Wang, C., \MakeLowercase{et~al.}}
+\newblock \enquote{In-edge ai: Intelligentizing mobile edge computing, caching
+  and communication by federated learning}, \emph{IEEE Network}, v.~33, n.~5,
+  \penalty0 pp.~156--165, 2019.
+
+\bibitem[\MakeUppercase{Li}\emph{ et~al.}(2019{\natexlab{a}})Li, Zeng, Zhou, e
+  Chen]{li2019edge}
+\MakeUppercase{Li, E., Zeng, L., Zhou, Z., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge AI: On-demand accelerating deep neural network
+  inference via edge computing}, \emph{IEEE Transactions on Wireless
+  Communications}, v.~19, n.~1, \penalty0 pp.~447--457, 2019{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Lee}\emph{ et~al.}(2018)Lee, Tsung, e
+  Wu]{lee2018techology}
+\MakeUppercase{Lee, Y.-L., Tsung, P.-K., Wu, M.}
+\newblock \enquote{Techology trend of edge AI}. In: \emph{2018 International
+  Symposium on VLSI Design, Automation and Test (VLSI-DAT)}, pp. 1--2. IEEE,
+  2018.
+
+\bibitem[\MakeUppercase{Greengard}(2020)Greengard]{greengard2020ai}
+\MakeUppercase{Greengard, S.}
+\newblock \enquote{Ai on edge}, \emph{Communications of the ACM}, v.~63, n.~9,
+  \penalty0 pp.~18--20, 2020.
+
+\bibitem[\MakeUppercase{Hu}\emph{ et~al.}(2019)Hu, Miao, Wu, Hassan, e
+  Humar]{hu2019irobot}
+\MakeUppercase{Hu, L., Miao, Y., Wu, G., \MakeLowercase{et~al.}}
+\newblock \enquote{iRobot-Factory: An intelligent robot factory based on
+  cognitive manufacturing and edge computing}, \emph{Future Generation Computer
+  Systems}, v.~90, \penalty0 pp.~569--577, 2019.
+
+\bibitem[\MakeUppercase{Yang}\emph{ et~al.}(2020{\natexlab{a}})Yang, Wang,
+  Guan, Hassan, Almogren, e Alsanad]{yang2020ai}
+\MakeUppercase{Yang, J., Wang, R., Guan, X., \MakeLowercase{et~al.}}
+\newblock \enquote{AI-enabled emotion-aware robot: The fusion of smart
+  clothing, edge clouds and robotics}, \emph{Future Generation Computer
+  Systems}, v.~102, \penalty0 pp.~701--709, 2020{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Rathi}\emph{ et~al.}(2021)Rathi, Rajput, Mishra,
+  Grover, Tiwari, Jaiswal, e Hossain]{rathi2021edge}
+\MakeUppercase{Rathi, V.~K., Rajput, N.~K., Mishra, S., \MakeLowercase{et~al.}}
+\newblock \enquote{An edge AI-enabled IoT healthcare monitoring system for
+  smart cities}, \emph{Computers \& Electrical Engineering}, v.~96, \penalty0
+  pp.~107524, 2021.
+
+\bibitem[\MakeUppercase{Wu}\emph{ et~al.}(2020)Wu, Miao, Zhang, e
+  Barnawi]{wu2020energy}
+\MakeUppercase{Wu, G., Miao, Y., Zhang, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{Energy efficient for UAV-enabled mobile edge computing
+  networks: Intelligent task prediction and offloading}, \emph{Computer
+  Communications}, v.~150, \penalty0 pp.~556--562, 2020.
+
+\bibitem[\MakeUppercase{Zhang}\emph{ et~al.}(2022)Zhang, Yu, Chen, Yang, Zhang,
+  e He]{zhang2022real}
+\MakeUppercase{Zhang, Y., Yu, J., Chen, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{Real-time strawberry detection using deep neural networks on
+  embedded system (rtsd-net): An edge AI application}, \emph{Computers and
+  Electronics in Agriculture}, v.~192, \penalty0 pp.~106586, 2022.
+
+\bibitem[\MakeUppercase{Debauche}\emph{ et~al.}(2020{\natexlab{a}})Debauche,
+  Mahmoudi, Mahmoudi, Manneback, Bindelle, e Lebeau]{debauche2020edge}
+\MakeUppercase{Debauche, O., Mahmoudi, S., Mahmoudi, S.~A.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge computing and artificial intelligence for real-time
+  poultry monitoring}, \emph{Procedia computer science}, v.~175, \penalty0
+  pp.~534--541, 2020{\natexlab{a}}.
+
+\bibitem[\MakeUppercase{Debauche}\emph{ et~al.}(2020{\natexlab{b}})Debauche,
+  Mahmoudi, Elmoulat, Mahmoudi, Manneback, e Lebeau]{debauche2020edge-1}
+\MakeUppercase{Debauche, O., Mahmoudi, S., Elmoulat, M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge AI-IoT pivot irrigation, plant diseases, and pests
+  identification}, \emph{Procedia Computer Science}, v.~177, \penalty0
+  pp.~40--48, 2020{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Elmoulat}\emph{ et~al.}(2020)Elmoulat, Debauche,
+  Mahmoudi, Mahmoudi, Manneback, e Lebeau]{elmoulat2020edge}
+\MakeUppercase{Elmoulat, M., Debauche, O., Mahmoudi, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge computing and artificial intelligence for landslides
+  monitoring}, \emph{Procedia Computer Science}, v.~177, \penalty0
+  pp.~480--487, 2020.
+
+\bibitem[\MakeUppercase{Gia}\emph{ et~al.}(2019)Gia, Qingqing, Queralta, Zou,
+  Tenhunen, e Westerlund]{gia2019edge}
+\MakeUppercase{Gia, T.~N., Qingqing, L., Queralta, J.~P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge AI in smart farming IoT: CNNs at the edge and fog
+  computing with LoRa}. In: \emph{2019 IEEE AFRICON}, pp. 1--6. IEEE, 2019.
+
+\bibitem[\MakeUppercase{Muhammad}\emph{ et~al.}(2019)Muhammad, Khan, Palade,
+  Mehmood, e De~Albuquerque]{muhammad2019edge}
+\MakeUppercase{Muhammad, K., Khan, S., Palade, V., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge intelligence-assisted smoke detection in foggy
+  surveillance environments}, \emph{IEEE Transactions on Industrial
+  Informatics}, v.~16, n.~2, \penalty0 pp.~1067--1075, 2019.
+
+\bibitem[\MakeUppercase{Klippel}\emph{ et~al.}(2021{\natexlab{a}})Klippel,
+  Oliveira, Maslov, Bianchi, Silva, e Garrocho]{Klippel2021}
+\MakeUppercase{Klippel, E., Oliveira, R., Maslov, D., \MakeLowercase{et~al.}}
+\newblock \enquote{Embedded Edge Artificial Intelligence for Longitudinal Rip
+  Detection in Conveyor Belt Applied at the Industrial Mining Environment}. In:
+  \emph{Proceedings of the 23rd International Conference on Enterprise
+  Information Systems}. {SCITEPRESS} - Science and Technology Publications,
+  2021{\natexlab{a}}.
+\newblock \doi{10.5220/0010447204960505}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.5220/0010447204960505}\textgreater .
+
+\bibitem[\MakeUppercase{Gomathy}\emph{ et~al.}(2021)Gomathy, Janarthanan,
+  Al-Turjman, Sitharthan, Rajesh, Vengatesan, e
+  Reshma]{gomathy2021investigating}
+\MakeUppercase{Gomathy, V., Janarthanan, K., Al-Turjman, F.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Investigating the spread of coronavirus disease via edge-AI
+  and air pollution correlation}, \emph{ACM Transactions on Internet
+  Technology}, v.~21, n.~4, \penalty0 pp.~1--10, 2021.
+
+\bibitem[\MakeUppercase{Rahman}\emph{ et~al.}(2021)Rahman, Khalil, Yi,
+  Atiquzzaman, e Bertino]{rahman2021lossless}
+\MakeUppercase{Rahman, M.~S., Khalil, I., Yi, X., \MakeLowercase{et~al.}}
+\newblock \enquote{A Lossless Data-Hiding based IoT Data Authenticity Model in
+  Edge-AI for Connected Living}, \emph{ACM Transactions on Internet Technology
+  (TOIT)}, v.~22, n.~3, \penalty0 pp.~1--25, 2021.
+
+\bibitem[\MakeUppercase{Chavhan}\emph{ et~al.}(2022)Chavhan, Gupta, Gochhayat,
+  Khanna, Shankar, e Rodrigues]{chavhan2022edge}
+\MakeUppercase{Chavhan, S., Gupta, D., Gochhayat, S.~P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge Computing AI-IoT Integrated Energy Efficient
+  Intelligent Transportation System for Smart Cities}, \emph{ACM Transactions
+  on Internet Technology (TOIT)}, 2022.
+
+\bibitem[\MakeUppercase{Yang} e \MakeUppercase{Han}(2021)Yang e
+  Han]{yang2021national}
+\MakeUppercase{Yang, H., Han, X.}
+\newblock \enquote{National Sports AI Health Management Service System Based on
+  Edge Computing}, \emph{Wireless Communications and Mobile Computing},
+  v.~2021, 2021.
+
+\bibitem[\MakeUppercase{Dinh}\emph{ et~al.}(2021)Dinh, Nguyen, Thai, e
+  Le]{dinh2021towards}
+\MakeUppercase{Dinh, D.-L., Nguyen, H.-N., Thai, H.-T., \MakeLowercase{et~al.}}
+\newblock \enquote{Towards AI-Based Traffic Counting System with Edge
+  Computing}, \emph{Journal of Advanced Transportation}, v.~2021, 2021.
+
+\bibitem[\MakeUppercase{Bibi}\emph{ et~al.}(2021)Bibi, Saeed, Zeb, Ghazal,
+  Rahman, Said, Abbas, Ahmad, e Khan]{bibi2021edge}
+\MakeUppercase{Bibi, R., Saeed, Y., Zeb, A., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge AI-based automated detection and classification of road
+  anomalies in VANET using deep learning}, \emph{Computational intelligence and
+  neuroscience}, v.~2021, 2021.
+
+\bibitem[\MakeUppercase{Munir}\emph{ et~al.}(2021)Munir, Bajwa, Ashraf, Anwar,
+  e Rashid]{munir2021intelligent}
+\MakeUppercase{Munir, M.~S., Bajwa, I.~S., Ashraf, A., \MakeLowercase{et~al.}}
+\newblock \enquote{Intelligent and smart irrigation system using edge computing
+  and IoT}, \emph{Complexity}, v.~2021, 2021.
+
+\bibitem[\MakeUppercase{Battistoni}\emph{ et~al.}(2019)Battistoni, Di~Gregorio,
+  Sebillo, e Vitiello]{battistoni2019ai}
+\MakeUppercase{Battistoni, P., Di~Gregorio, M., Sebillo, M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{AI at the edge for sign language learning support}. In:
+  \emph{2019 IEEE International Conference on Humanized Computing and
+  Communication (HCC)}, pp. 16--23. IEEE, 2019.
+
+\bibitem[\MakeUppercase{Hou}\emph{ et~al.}(2019)Hou, Liu, Pan, e
+  Hou]{hou2019ai}
+\MakeUppercase{Hou, D., Liu, T., Pan, Y.-T., \MakeLowercase{et~al.}}
+\newblock \enquote{AI on edge device for laser chip defect detection}. In:
+  \emph{2019 IEEE 9th Annual Computing and Communication Workshop and
+  Conference (CCWC)}, pp. 0247--0251. IEEE, 2019.
+
+\bibitem[\MakeUppercase{Yang}\emph{ et~al.}(2020{\natexlab{b}})Yang, Fahier,
+  He, Li, e Fang]{yang2020ai-2}
+\MakeUppercase{Yang, C.-J., Fahier, N., He, C.-Y., \MakeLowercase{et~al.}}
+\newblock \enquote{An ai-edge platform with multimodal wearable physiological
+  signals monitoring sensors for affective computing applications}. In:
+  \emph{2020 IEEE International Symposium on Circuits and Systems (ISCAS)}, pp.
+  1--5. IEEE, 2020{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Liu}\emph{ et~al.}(2017)Liu, Cao, Luo, Chen, Vokkarane,
+  Yunsheng, Chen, e Hou]{liu2017new}
+\MakeUppercase{Liu, C., Cao, Y., Luo, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{A new deep learning-based food recognition system for
+  dietary assessment on an edge computing service infrastructure}, \emph{IEEE
+  Transactions on Services Computing}, v.~11, n.~2, \penalty0 pp.~249--261,
+  2017.
+
+\bibitem[\MakeUppercase{Lin}\emph{ et~al.}(2021)Lin, Chen, e
+  Kuo]{lin2021implementation}
+\MakeUppercase{Lin, Y.-C., Chen, W.-H., Kuo, C.-H.}
+\newblock \enquote{Implementation of Pavement Defect Detection System on Edge
+  Computing Platform}, \emph{Applied Sciences}, v.~11, n.~8, \penalty0
+  pp.~3725, 2021.
+
+\bibitem[\MakeUppercase{Lin}\emph{ et~al.}(2022)Lin, Chuang, e
+  Lin]{lin2022edge}
+\MakeUppercase{Lin, C.-J., Chuang, C.-C., Lin, H.-Y.}
+\newblock \enquote{Edge-AI-Based Real-Time Automated License Plate Recognition
+  System}, \emph{Applied Sciences}, v.~12, n.~3, \penalty0 pp.~1445, 2022.
+
+\bibitem[\MakeUppercase{Pan}\emph{ et~al.}(2020)Pan, Luo, Li, Tham, Heng, e
+  Thean]{pan2020wireless}
+\MakeUppercase{Pan, J., Luo, Y., Li, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{A Wireless multi-channel capacitive sensor system for
+  efficient glove-based gesture recognition with AI at the edge}, \emph{IEEE
+  Transactions on Circuits and Systems II: Express Briefs}, v.~67, n.~9,
+  \penalty0 pp.~1624--1628, 2020.
+
+\bibitem[\MakeUppercase{Li}\emph{ et~al.}(2021)Li, Wu, Li, Bashir, Piran, e
+  Anjum]{li2021blockchain}
+\MakeUppercase{Li, J., Wu, J., Li, J., \MakeLowercase{et~al.}}
+\newblock \enquote{Blockchain-based trust edge knowledge inference of
+  multi-robot systems for collaborative tasks}, \emph{IEEE Communications
+  Magazine}, v.~59, n.~7, \penalty0 pp.~94--100, 2021.
+
+\bibitem[\MakeUppercase{Sakib}\emph{ et~al.}(2021)Sakib, Fouda, Al-Mahdawi,
+  Mohsen, Oogane, Ando, e Fadlullah]{sakib2021deep}
+\MakeUppercase{Sakib, S., Fouda, M.~M., Al-Mahdawi, M., \MakeLowercase{et~al.}}
+\newblock \enquote{Deep Learning Models for Magnetic Cardiography Edge Sensors
+  Implementing Noise Processing and Diagnostics}, \emph{IEEE Access}, v.~10,
+  \penalty0 pp.~2656--2668, 2021.
+
+\bibitem[\MakeUppercase{Li}\emph{ et~al.}(2020)Li, Gao, Zhao, e
+  Shen]{li2020deep}
+\MakeUppercase{Li, M., Gao, J., Zhao, L., \MakeLowercase{et~al.}}
+\newblock \enquote{Deep reinforcement learning for collaborative edge computing
+  in vehicular networks}, \emph{IEEE Transactions on Cognitive Communications
+  and Networking}, v.~6, n.~4, \penalty0 pp.~1122--1135, 2020.
+
+\bibitem[\MakeUppercase{Fang}\emph{ et~al.}(2019)Fang, Wang, Fahier, Ho, e
+  Huang]{fang2019development}
+\MakeUppercase{Fang, W.-C., Wang, K.-Y., Fahier, N., \MakeLowercase{et~al.}}
+\newblock \enquote{Development and validation of an EEG-based real-time emotion
+  recognition system using edge AI computing platform with convolutional neural
+  network system-on-chip design}, \emph{IEEE Journal on Emerging and Selected
+  Topics in Circuits and Systems}, v.~9, n.~4, \penalty0 pp.~645--657, 2019.
+
+\bibitem[\MakeUppercase{Chen}\emph{ et~al.}(2019)Chen, Li, Deng, Li, e
+  Philip]{chen2019distributed}
+\MakeUppercase{Chen, J., Li, K., Deng, Q., \MakeLowercase{et~al.}}
+\newblock \enquote{Distributed deep learning model for intelligent video
+  surveillance systems with edge computing}, \emph{IEEE Transactions on
+  Industrial Informatics}, 2019.
+
+\bibitem[\MakeUppercase{Queralta}\emph{ et~al.}(2019)Queralta, Gia, Tenhunen, e
+  Westerlund]{queralta2019edge}
+\MakeUppercase{Queralta, J.~P., Gia, T.~N., Tenhunen, H.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge-AI in LoRa-based health monitoring: Fall detection
+  system with fog computing and LSTM recurrent neural networks}. In: \emph{2019
+  42nd international conference on telecommunications and signal processing
+  (TSP)}, pp. 601--604. IEEE, 2019.
+
+\bibitem[\MakeUppercase{Foukalas} e \MakeUppercase{Tziouvaras}(2021)Foukalas e
+  Tziouvaras]{foukalas2021edge}
+\MakeUppercase{Foukalas, F., Tziouvaras, A.}
+\newblock \enquote{Edge artificial intelligence for industrial internet of
+  things applications: an industrial edge intelligence solution}, \emph{IEEE
+  Industrial Electronics Magazine}, v.~15, n.~2, \penalty0 pp.~28--36, 2021.
+
+\bibitem[\MakeUppercase{Yang}\emph{ et~al.}(2021)Yang, Lee, e Park]{yang2021ai}
+\MakeUppercase{Yang, T., Lee, S.-H., Park, S.}
+\newblock \enquote{AI-Aided Individual Emergency Detection System in
+  Edge-Internet of Things Environments}, \emph{Electronics}, v.~10, n.~19,
+  \penalty0 pp.~2374, 2021.
+
+\bibitem[\MakeUppercase{Gupta}\emph{ et~al.}(2020)Gupta, Khosravy, Patel, Dey,
+  Gupta, Darbari, e Crespo]{gupta2020economic}
+\MakeUppercase{Gupta, N., Khosravy, M., Patel, N., \MakeLowercase{et~al.}}
+\newblock \enquote{Economic data analytic AI technique on IoT edge devices for
+  health monitoring of agriculture machines}, \emph{Applied Intelligence},
+  v.~50, n.~11, \penalty0 pp.~3990--4016, 2020.
+
+\bibitem[\MakeUppercase{Liu}\emph{ et~al.}(2019)Liu, Yang, Jiang, Xie, e
+  Zhang]{liu2019intelligent}
+\MakeUppercase{Liu, Y., Yang, C., Jiang, L., \MakeLowercase{et~al.}}
+\newblock \enquote{Intelligent edge computing for IoT-based energy management
+  in smart cities}, \emph{IEEE network}, v.~33, n.~2, \penalty0 pp.~111--117,
+  2019.
+
+\bibitem[\MakeUppercase{Barnawi}\emph{ et~al.}(2020)Barnawi, Alharbi, e
+  Chen]{barnawi2020intelligent}
+\MakeUppercase{Barnawi, A., Alharbi, M., Chen, M.}
+\newblock \enquote{Intelligent search and find system for robotic platform
+  based on smart edge computing service}, \emph{IEEE Access}, v.~8, \penalty0
+  pp.~108821--108834, 2020.
+
+\bibitem[\MakeUppercase{Liao}\emph{ et~al.}(2017)Liao, Shou, Liu, Hu, e
+  Guo]{liao2017intelligent}
+\MakeUppercase{Liao, C., Shou, G., Liu, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{Intelligent traffic accident detection system based on
+  mobile edge computing}. In: \emph{2017 3rd IEEE International Conference on
+  Computer and Communications (ICCC)}, pp. 2110--2115. IEEE, 2017.
+
+\bibitem[\MakeUppercase{De~Vita}\emph{ et~al.}(2020)De~Vita, Pau, Parrella,
+  Di~Benedetto, Rubino, e Licciardo]{de2020low}
+\MakeUppercase{De~Vita, A., Pau, D., Parrella, C., \MakeLowercase{et~al.}}
+\newblock \enquote{Low-power HWAccelerator for AI edge-computing in human
+  activity recognition systems}. In: \emph{2020 2nd IEEE International
+  Conference on Artificial Intelligence Circuits and Systems (AICAS)}, pp.
+  291--295. IEEE, 2020.
+
+\bibitem[\MakeUppercase{Libri}\emph{ et~al.}(2020)Libri, Bartolini, e
+  Benini]{libri2020paella}
+\MakeUppercase{Libri, A., Bartolini, A., Benini, L.}
+\newblock \enquote{pAElla: Edge AI-based real-time malware detection in data
+  centers}, \emph{IEEE Internet of Things Journal}, v.~7, n.~10, \penalty0
+  pp.~9589--9599, 2020.
+
+\bibitem[\MakeUppercase{Eskandari}\emph{ et~al.}(2020)Eskandari, Janjua,
+  Vecchio, e Antonelli]{eskandari2020passban}
+\MakeUppercase{Eskandari, M., Janjua, Z.~H., Vecchio, M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Passban IDS: An intelligent anomaly-based intrusion
+  detection system for IoT edge devices}, \emph{IEEE Internet of Things
+  Journal}, v.~7, n.~8, \penalty0 pp.~6882--6897, 2020.
+
+\bibitem[\MakeUppercase{Mazzia}\emph{ et~al.}(2020)Mazzia, Khaliq, Salvetti, e
+  Chiaberge]{mazzia2020real}
+\MakeUppercase{Mazzia, V., Khaliq, A., Salvetti, F., \MakeLowercase{et~al.}}
+\newblock \enquote{Real-time apple detection system using embedded systems with
+  hardware accelerators: An edge AI application}, \emph{IEEE Access}, v.~8,
+  \penalty0 pp.~9102--9114, 2020.
+
+\bibitem[\MakeUppercase{Coppola}\emph{ et~al.}(2021)Coppola, Noaille, Pierlot,
+  de~Oliveira, Gaveau, Rondeau, Mohimont, Steffenel, Sindaco, e
+  Salmon]{coppola2021innovative}
+\MakeUppercase{Coppola, M., Noaille, L., Pierlot, C., \MakeLowercase{et~al.}}
+\newblock \enquote{Innovative Vineyards Environmental Monitoring System Using
+  Deep Edge AI}. 2021.
+
+\bibitem[\MakeUppercase{Poon}\emph{ et~al.}(2020)Poon, Jiang, Zhang, Lo,
+  Cheung, Yu, Zheng, Wong, Liu, Wong, et~al.]{poon2020ai}
+\MakeUppercase{Poon, C.~C., Jiang, Y., Zhang, R., \MakeLowercase{et~al.}}
+\newblock \enquote{AI-doscopist: a real-time deep-learning-based algorithm for
+  localising polyps in colonoscopy videos with edge computing devices},
+  \emph{NPJ digital medicine}, v.~3, n.~1, \penalty0 pp.~1--8, 2020.
+
+\bibitem[\MakeUppercase{Manogaran}\emph{ et~al.}(2019)Manogaran, Shakeel,
+  Fouad, Nam, Baskar, Chilamkurti, e Sundarasekar]{manogaran2019wearable}
+\MakeUppercase{Manogaran, G., Shakeel, P.~M., Fouad, H.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable IoT smart-log patch: An edge computing-based
+  Bayesian deep learning network system for multi access physical monitoring
+  system}, \emph{Sensors}, v.~19, n.~13, \penalty0 pp.~3030, 2019.
+
+\bibitem[\MakeUppercase{Cob-Parro}\emph{ et~al.}(2021)Cob-Parro,
+  Losada-Guti{\'e}rrez, Marr{\'o}n-Romera, Gardel-Vicente, e
+  Bravo-Mu{\~n}oz]{cob2021smart}
+\MakeUppercase{Cob-Parro, A.~C., Losada-Guti{\'e}rrez, C., Marr{\'o}n-Romera,
+  M., \MakeLowercase{et~al.}}
+\newblock \enquote{Smart video surveillance system based on edge computing},
+  \emph{Sensors}, v.~21, n.~9, \penalty0 pp.~2958, 2021.
+
+\bibitem[\MakeUppercase{Klippel}\emph{ et~al.}(2021{\natexlab{b}})Klippel,
+  Oliveira, Maslov, Bianchi, Silva, e Garrocho]{klippel2021deep}
+\MakeUppercase{Klippel, E., Oliveira, R., Maslov, D., \MakeLowercase{et~al.}}
+\newblock \enquote{Embedded Edge Artificial Intelligence for Longitudinal Rip
+  Detection in Conveyor Belt Applied at the Industrial Mining Environment}. In:
+  \emph{Proceedings of the 23rd International Conference on Enterprise
+  Information Systems}. {SCITEPRESS} - Science and Technology Publications,
+  2021{\natexlab{b}}.
+\newblock \doi{10.5220/0010447204960505}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.5220/0010447204960505}\textgreater .
+
+\bibitem[\MakeUppercase{Lyu}\emph{ et~al.}(2022)Lyu, Li, Zhao, Li, Fan, e
+  Liu]{lyu2022green}
+\MakeUppercase{Lyu, S., Li, R., Zhao, Y., \MakeLowercase{et~al.}}
+\newblock \enquote{Green Citrus Detection and Counting in Orchards Based on
+  YOLOv5-CS and AI Edge System}, \emph{Sensors}, v.~22, n.~2, \penalty0
+  pp.~576, 2022.
+
+\bibitem[\MakeUppercase{Su}\emph{ et~al.}(2019)Su, Sperl{\`\i}, Moscato,
+  Picariello, Esposito, e Choi]{su2019edge}
+\MakeUppercase{Su, X., Sperl{\`\i}, G., Moscato, V., \MakeLowercase{et~al.}}
+\newblock \enquote{An edge intelligence empowered recommender system enabling
+  cultural heritage applications}, \emph{IEEE Transactions on Industrial
+  Informatics}, v.~15, n.~7, \penalty0 pp.~4266--4275, 2019.
+
+\bibitem[\MakeUppercase{Xu}\emph{ et~al.}(2019)Xu, Qian, e Hu]{xu2019semi}
+\MakeUppercase{Xu, S., Qian, Y., Hu, R.~Q.}
+\newblock \enquote{A semi-supervised learning approach for network anomaly
+  detection in fog computing}. In: \emph{ICC 2019-2019 IEEE International
+  Conference on Communications (ICC)}, pp. 1--6. IEEE, 2019.
+
+\bibitem[\MakeUppercase{Beck}\emph{ et~al.}(2014)Beck, Werner, Feld, e
+  Schimper]{beck2014mobile}
+\MakeUppercase{Beck, M.~T., Werner, M., Feld, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Mobile edge computing: A taxonomy}. In: \emph{Proc. of the
+  Sixth International Conference on Advances in Future Internet}, pp. 48--55.
+  Citeseer, 2014.
+
+\bibitem[\MakeUppercase{Ahmed}\emph{ et~al.}(2017)Ahmed, Ahmed, Yaqoob, Shuja,
+  Gani, Imran, e Shoaib]{ahmed2017bringing}
+\MakeUppercase{Ahmed, E., Ahmed, A., Yaqoob, I., \MakeLowercase{et~al.}}
+\newblock \enquote{Bringing computation closer toward the user network: Is edge
+  computing the solution?} \emph{IEEE Communications Magazine}, v.~55, n.~11,
+  \penalty0 pp.~138--144, 2017.
+
+\bibitem[\MakeUppercase{Dolui} e \MakeUppercase{Datta}(2017)Dolui e
+  Datta]{dolui2017comparison}
+\MakeUppercase{Dolui, K., Datta, S.~K.}
+\newblock \enquote{Comparison of edge computing implementations: Fog computing,
+  cloudlet and mobile edge computing}. In: \emph{2017 Global Internet of Things
+  Summit (GIoTS)}, pp. 1--6. IEEE, 2017.
+
+\bibitem[\MakeUppercase{Sheth}\emph{ et~al.}(2020)Sheth, Patel, Shah, Tanwar,
+  Gupta, e Kumar]{sheth2020taxonomy}
+\MakeUppercase{Sheth, K., Patel, K., Shah, H., \MakeLowercase{et~al.}}
+\newblock \enquote{A taxonomy of AI techniques for 6G communication networks},
+  \emph{Computer communications}, v.~161, \penalty0 pp.~279--303, 2020.
+
+\bibitem[\MakeUppercase{Baltru{\v{s}}aitis}\emph{
+  et~al.}(2018)Baltru{\v{s}}aitis, Ahuja, e
+  Morency]{baltruvsaitis2018multimodal}
+\MakeUppercase{Baltru{\v{s}}aitis, T., Ahuja, C., Morency, L.-P.}
+\newblock \enquote{Multimodal machine learning: A survey and taxonomy},
+  \emph{IEEE transactions on pattern analysis and machine intelligence}, v.~41,
+  n.~2, \penalty0 pp.~423--443, 2018.
+
+\bibitem[\MakeUppercase{Talbi}(2021)Talbi]{talbi2021machine}
+\MakeUppercase{Talbi, E.-G.}
+\newblock \enquote{Machine learning into metaheuristics: A survey and
+  taxonomy}, \emph{ACM Computing Surveys (CSUR)}, v.~54, n.~6, \penalty0
+  pp.~1--32, 2021.
+
+\bibitem[\MakeUppercase{Mendez}\emph{ et~al.}(2022)Mendez, Bierzynski,
+  Cu{\'e}llar, e Morales]{mendez2022edge}
+\MakeUppercase{Mendez, J., Bierzynski, K., Cu{\'e}llar, M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Edge Intelligence: Concepts, architectures, applications and
+  future directions}, \emph{ACM Transactions on Embedded Computing Systems
+  (TECS)}, 2022.
+
+\bibitem[\MakeUppercase{Amin} e \MakeUppercase{Hossain}(2020)Amin e
+  Hossain]{amin2020edge}
+\MakeUppercase{Amin, S.~U., Hossain, M.~S.}
+\newblock \enquote{Edge intelligence and internet of things in healthcare: a
+  survey}, \emph{IEEE Access}, v.~9, \penalty0 pp.~45--59, 2020.
+
+\bibitem[\MakeUppercase{Lalapura}\emph{ et~al.}(2021)Lalapura, Amudha, e
+  Satheesh]{lalapura2021recurrent}
+\MakeUppercase{Lalapura, V.~S., Amudha, J., Satheesh, H.~S.}
+\newblock \enquote{Recurrent neural networks for edge intelligence: a survey},
+  \emph{ACM Computing Surveys (CSUR)}, v.~54, n.~4, \penalty0 pp.~1--38, 2021.
+
+\bibitem[\MakeUppercase{Fantacci} e \MakeUppercase{Picano}(2020)Fantacci e
+  Picano]{fantacci2020federated}
+\MakeUppercase{Fantacci, R., Picano, B.}
+\newblock \enquote{Federated learning framework for mobile edge computing
+  networks}, \emph{CAAI Transactions on Intelligence Technology}, v.~5, n.~1,
+  \penalty0 pp.~15--21, 2020.
+
+\bibitem[\MakeUppercase{Nguyen}\emph{ et~al.}(2021)Nguyen, Ding, Pham,
+  Pathirana, Le, Seneviratne, Li, Niyato, e Poor]{nguyen2021federated}
+\MakeUppercase{Nguyen, D.~C., Ding, M., Pham, Q.-V., \MakeLowercase{et~al.}}
+\newblock \enquote{Federated learning meets blockchain in edge computing:
+  Opportunities and challenges}, \emph{IEEE Internet of Things Journal}, 2021.
+
+\bibitem[\MakeUppercase{Al-Ansi}\emph{ et~al.}(2021)Al-Ansi, Al-Ansi, Muthanna,
+  Elgendy, e Koucheryavy]{al2021survey}
+\MakeUppercase{Al-Ansi, A., Al-Ansi, A.~M., Muthanna, A.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Survey on intelligence edge computing in 6G:
+  characteristics, challenges, potential use cases, and market drivers},
+  \emph{Future Internet}, v.~13, n.~5, \penalty0 pp.~118, 2021.
+
+\bibitem[\MakeUppercase{Augimeri}\emph{ et~al.}(2011)Augimeri, Fortino,
+  Galzarano, e Gravina]{augimeri2011collaborative}
+\MakeUppercase{Augimeri, A., Fortino, G., Galzarano, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Collaborative body sensor networks}. In: \emph{2011 IEEE
+  International Conference on Systems, Man, and Cybernetics}, pp. 3427--3432.
+  IEEE, 2011.
+
+\bibitem[\MakeUppercase{Fortino}\emph{ et~al.}(2015)Fortino, Galzarano,
+  Gravina, e Li]{fortino2015framework}
+\MakeUppercase{Fortino, G., Galzarano, S., Gravina, R., \MakeLowercase{et~al.}}
+\newblock \enquote{A framework for collaborative computing and multi-sensor
+  data fusion in body sensor networks}, \emph{Information Fusion}, v.~22,
+  \penalty0 pp.~50--70, 2015.
+
+\bibitem[\MakeUppercase{Mihovska} e \MakeUppercase{Sarkar}(2018)Mihovska e
+  Sarkar]{mihovska2018cooperative}
+\MakeUppercase{Mihovska, A., Sarkar, M.}
+\newblock \enquote{Cooperative Human-Centric Sensing Connectivity}. In:
+  \emph{Internet of Things-Technology, Applications and Standardization},
+  InTechOpen, 2018.
+
+\bibitem[\MakeUppercase{Zhang}\emph{ et~al.}(2019)Zhang, Yang, Chen, Chen, e
+  Huang]{zhang2019cooperative}
+\MakeUppercase{Zhang, X., Yang, Z., Chen, T., \MakeLowercase{et~al.}}
+\newblock \enquote{Cooperative Sensing and Wearable Computing for Sequential
+  Hand Gesture Recognition}, \emph{IEEE Sensors Journal}, 2019.
+
+\bibitem[\MakeUppercase{Peng} e \MakeUppercase{Peng}(2016)Peng e
+  Peng]{peng2016cooperative}
+\MakeUppercase{Peng, Y., Peng, L.}
+\newblock \enquote{A cooperative transmission strategy for body-area networks
+  in healthcare systems}, \emph{IEEE Access}, v.~4, \penalty0 pp.~9155--9162,
+  2016.
+
+\bibitem[\MakeUppercase{Nguyen-Huu}\emph{ et~al.}(2018)Nguyen-Huu, Song, e
+  Seon-Woo]{nguyen2018smartwatch}
+\MakeUppercase{Nguyen-Huu, K., Song, C.~G., Seon-Woo, L.}
+\newblock \enquote{Smartwatch/Smartphone Cooperative Indoor Lifelogging
+  System}, \emph{International Journal of Engineering and Technology
+  Innovation}, v.~8, n.~4, \penalty0 pp.~261, 2018.
+
+\bibitem[\MakeUppercase{Pimentel}\emph{ et~al.}(2019)Pimentel, Rodrigues,
+  Silva, Vilarinho, Vaz, e Cunha]{pimentel2019wearable}
+\MakeUppercase{Pimentel, G., Rodrigues, S., Silva, P.~A.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{A Wearable Approach for Intraoperative Physiological Stress
+  Monitoring of Multiple Cooperative Surgeons}, \emph{International Journal of
+  Medical Informatics}, 2019.
+
+\bibitem[\MakeUppercase{Prakash} e \MakeUppercase{Ganesh}(2016)Prakash e
+  Ganesh]{prakash2016establishment}
+\MakeUppercase{Prakash, R., Ganesh, A.~B.}
+\newblock \enquote{Establishment of network coded cooperative communication for
+  clinical healthcare}. In: \emph{2016 2nd International Conference on
+  Contemporary Computing and Informatics (IC3I)}, pp. 126--130. IEEE, 2016.
+
+\bibitem[\MakeUppercase{Pham}\emph{ et~al.}(2018)Pham, Warmerdam, Elshehabi,
+  Schlenstedt, Bergeest, Heller, Haertner, Ferreira, Berg, Schmidt,
+  et~al.]{pham2018validation}
+\MakeUppercase{Pham, M.~H., Warmerdam, E., Elshehabi, M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Validation of a lower back “wearable”-based sit-to-stand
+  and stand-to-sit algorithm for patients with Parkinson’s disease and older
+  adults in a home-like environment}, \emph{Frontiers in neurology}, v.~9,
+  \penalty0 pp.~652, 2018.
+
+\bibitem[\MakeUppercase{Chen} e \MakeUppercase{Ran}(2019)Chen e
+  Ran]{chen2019deep}
+\MakeUppercase{Chen, J., Ran, X.}
+\newblock \enquote{Deep Learning With Edge Computing: A Review.}
+  \emph{Proceedings of the IEEE}, v.~107, n.~8, \penalty0 pp.~1655--1674, 2019.
+
+\bibitem[\MakeUppercase{Wang}\emph{ et~al.}(2020)Wang, Han, Leung, Niyato, Yan,
+  e Chen]{wang2020convergence}
+\MakeUppercase{Wang, X., Han, Y., Leung, V.~C., \MakeLowercase{et~al.}}
+\newblock \enquote{Convergence of edge computing and deep learning: A
+  comprehensive survey}, \emph{IEEE Communications Surveys \& Tutorials},
+  v.~22, n.~2, \penalty0 pp.~869--904, 2020.
+
+\bibitem[\MakeUppercase{Uddin}(2019)Uddin]{uddin2019wearable}
+\MakeUppercase{Uddin, M.~Z.}
+\newblock \enquote{A wearable sensor-based activity prediction system to
+  facilitate edge computing in smart healthcare system}, \emph{Journal of
+  Parallel and Distributed Computing}, v.~123, \penalty0 pp.~46--53, 2019.
+
+\bibitem[\MakeUppercase{Liu}\emph{ et~al.}(2018)Liu, Yao, Yang, e
+  Ning]{liu2018cooperative}
+\MakeUppercase{Liu, H., Yao, X., Yang, T., \MakeLowercase{et~al.}}
+\newblock \enquote{Cooperative privacy preservation for wearable devices in
+  hybrid computing-based smart health}, \emph{IEEE Internet of Things Journal},
+  v.~6, n.~2, \penalty0 pp.~1352--1362, 2018.
+
+\bibitem[\MakeUppercase{Vega-Barbas}\emph{ et~al.}(2019)Vega-Barbas,
+  Diaz-Olivares, Lu, Forsman, Seoane, e Abtahi]{vega2019p}
+\MakeUppercase{Vega-Barbas, M., Diaz-Olivares, J.~A., Lu, K.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{P-Ergonomics Platform: Toward precise, pervasive, and
+  personalized ergonomics using wearable sensors and edge computing},
+  \emph{Sensors}, v.~19, n.~5, \penalty0 pp.~1225, 2019.
+
+\bibitem[\MakeUppercase{Kumari}\emph{ et~al.}(2017)Kumari,
+  L{\'o}pez-Ben{\'\i}tez, Lee, Kim, e Minhas]{kumari2017wearable}
+\MakeUppercase{Kumari, P., L{\'o}pez-Ben{\'\i}tez, M., Lee, G.~M.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable Internet of Things-from human activity tracking to
+  clinical integration}. In: \emph{2017 39th Annual International Conference of
+  the IEEE Engineering in Medicine and Biology Society (EMBC)}, pp. 2361--2364.
+  IEEE, 2017.
+
+\bibitem[\MakeUppercase{DeMicheli} e \MakeUppercase{Sami}(2013)DeMicheli e
+  Sami]{demicheli2013hardware}
+\MakeUppercase{DeMicheli, G., Sami, M.}
+\newblock \emph{Hardware/software Co-design}, v. 310.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem[\MakeUppercase{De~Michell} e \MakeUppercase{Gupta}(1997)De~Michell e
+  Gupta]{de1997hardware}
+\MakeUppercase{De~Michell, G., Gupta, R.~K.}
+\newblock \enquote{Hardware/software co-design}, \emph{Proceedings of the
+  IEEE}, v.~85, n.~3, \penalty0 pp.~349--365, 1997.
+
+\bibitem[\MakeUppercase{Muiruri}\emph{ et~al.}(2019)Muiruri, Barantal, Iason,
+  Salminen, Perez-Fernandez, e Koricheva]{muiruri2019forest}
+\MakeUppercase{Muiruri, E.~W., Barantal, S., Iason, G.~R.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Forest diversity effects on insect herbivores: do leaf
+  traits matter?} \emph{New Phytologist}, v.~221, n.~4, \penalty0
+  pp.~2250--2260, 2019.
+
+\bibitem[\MakeUppercase{Ben{\'\i}tez-Malvido}\emph{
+  et~al.}(2018)Ben{\'\i}tez-Malvido, L{\'a}zaro, e Ferraz]{benitez2018effect}
+\MakeUppercase{Ben{\'\i}tez-Malvido, J., L{\'a}zaro, A., Ferraz, I.~D.}
+\newblock \enquote{Effect of distance to edge and edge interaction on seedling
+  regeneration and biotic damage in tropical rainforest fragments: A long-term
+  experiment}, \emph{Journal of Ecology}, v.~106, n.~6, \penalty0
+  pp.~2204--2217, 2018.
+
+\bibitem[\MakeUppercase{Saidov}\emph{ et~al.}(2018)Saidov, Srinivasan,
+  Mavlyanova, e Qurbonov]{saidov2018first}
+\MakeUppercase{Saidov, N., Srinivasan, R., Mavlyanova, R.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{First report of invasive South American tomato leaf miner
+  Tuta absoluta (Meyrick)(Lepidoptera: Gelechiidae) in Tajikistan},
+  \emph{Florida Entomologist}, v.~101, n.~1, \penalty0 pp.~147--150, 2018.
+
+\bibitem[\MakeUppercase{Baudron}\emph{ et~al.}(2019)Baudron, Zaman-Allah,
+  Chaipa, Chari, e Chinwada]{baudron2019understanding}
+\MakeUppercase{Baudron, F., Zaman-Allah, M.~A., Chaipa, I.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Understanding the factors influencing fall armyworm
+  (Spodoptera frugiperda JE Smith) damage in African smallholder maize fields
+  and quantifying its impact on yield. A case study in Eastern Zimbabwe},
+  \emph{Crop Protection}, v.~120, \penalty0 pp.~141--150, 2019.
+
+\bibitem[\MakeUppercase{Wu}\emph{ et~al.}(2007)Wu, Bao, Xu, Wang, Chang, e
+  Xiang]{wu2007leaf}
+\MakeUppercase{Wu, S.~G., Bao, F.~S., Xu, E.~Y., \MakeLowercase{et~al.}}
+\newblock \enquote{A leaf recognition algorithm for plant classification using
+  probabilistic neural network}. In: \emph{2007 IEEE international symposium on
+  signal processing and information technology}, pp. 11--16. IEEE, 2007.
+
+\bibitem[\MakeUppercase{Novotn{\`y}} e \MakeUppercase{Suk}(2013)Novotn{\`y} e
+  Suk]{novotny2013leaf}
+\MakeUppercase{Novotn{\`y}, P., Suk, T.}
+\newblock \enquote{Leaf recognition of woody species in Central Europe},
+  \emph{Biosystems Engineering}, v.~115, n.~4, \penalty0 pp.~444--452, 2013.
+
+\bibitem[\MakeUppercase{Otsu}(1979)Otsu]{otsu1979threshold}
+\MakeUppercase{Otsu, N.}
+\newblock \enquote{A threshold selection method from gray-level histograms},
+  \emph{IEEE transactions on systems, man, and cybernetics}, v.~9, n.~1,
+  \penalty0 pp.~62--66, 1979.
+
+\bibitem[\MakeUppercase{da~Silva}\emph{ et~al.}(2019)da~Silva, Bressan,
+  Gon{\c{c}}alves, Freitas, Machado, e Gon{\c{c}}alves]{da2019estimating}
+\MakeUppercase{da~Silva, L.~A., Bressan, P.~O., Gon{\c{c}}alves, D.~N.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Estimating soybean leaf defoliation using convolutional
+  neural networks and synthetic images}, \emph{Computers and electronics in
+  agriculture}, v.~156, \penalty0 pp.~360--368, 2019.
+
+\bibitem[\MakeUppercase{Isola}\emph{ et~al.}(2017)Isola, Zhu, Zhou, e
+  Efros]{isola2017image}
+\MakeUppercase{Isola, P., Zhu, J.-Y., Zhou, T., \MakeLowercase{et~al.}}
+\newblock \enquote{Image-to-image translation with conditional adversarial
+  networks}. In: \emph{Proceedings of the IEEE conference on computer vision
+  and pattern recognition}, pp. 1125--1134, 2017.
+
+\bibitem[\MakeUppercase{Ronneberger}\emph{ et~al.}(2015)Ronneberger, Fischer, e
+  Brox]{ronneberger2015u}
+\MakeUppercase{Ronneberger, O., Fischer, P., Brox, T.}
+\newblock \enquote{U-net: Convolutional networks for biomedical image
+  segmentation}. In: \emph{International Conference on Medical image computing
+  and computer-assisted intervention}, pp. 234--241. Springer, 2015.
+
+\bibitem[\MakeUppercase{Hou}\emph{ et~al.}(2017)Hou, Shen, Sun, e
+  Qiu]{hou2017deep}
+\MakeUppercase{Hou, X., Shen, L., Sun, K., \MakeLowercase{et~al.}}
+\newblock \enquote{Deep feature consistent variational autoencoder}. In:
+  \emph{2017 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pp. 1133--1141. IEEE, 2017.
+
+\bibitem[\MakeUppercase{Dong}\emph{ et~al.}(2017)Dong, Yang, Liu, Mo, e
+  Guo]{dong2017automatic}
+\MakeUppercase{Dong, H., Yang, G., Liu, F., \MakeLowercase{et~al.}}
+\newblock \enquote{Automatic brain tumor detection and segmentation using U-Net
+  based fully convolutional networks}. In: \emph{annual conference on medical
+  image understanding and analysis}, pp. 506--517. Springer, 2017.
+
+\bibitem[\MakeUppercase{Oktay}\emph{ et~al.}(2018)Oktay, Schlemper, Folgoc,
+  Lee, Heinrich, Misawa, Mori, McDonagh, Hammerla, Kainz,
+  et~al.]{oktay2018attention}
+\MakeUppercase{Oktay, O., Schlemper, J., Folgoc, L.~L., \MakeLowercase{et~al.}}
+\newblock \enquote{Attention u-net: Learning where to look for the pancreas},
+  \emph{arXiv preprint arXiv:1804.03999}, 2018.
+
+\bibitem[\MakeUppercase{Hyun}\emph{ et~al.}(2018)Hyun, Kim, Lee, Lee, e
+  Seo]{hyun2018deep}
+\MakeUppercase{Hyun, C.~M., Kim, H.~P., Lee, S.~M., \MakeLowercase{et~al.}}
+\newblock \enquote{Deep learning for undersampled MRI reconstruction},
+  \emph{Physics in Medicine \& Biology}, v.~63, n.~13, \penalty0 pp.~135007,
+  2018.
+
+\bibitem[\MakeUppercase{Antholzer}\emph{ et~al.}(2018)Antholzer, Haltmeier,
+  Nuster, e Schwab]{antholzer2018photoacoustic}
+\MakeUppercase{Antholzer, S., Haltmeier, M., Nuster, R.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Photoacoustic image reconstruction via deep learning}. In:
+  \emph{Photons Plus Ultrasound: Imaging and Sensing 2018}, v. 10494, p.
+  104944U. International Society for Optics and Photonics, 2018.
+
+\bibitem[\MakeUppercase{Gen{\c{c}}tav}\emph{ et~al.}(2012)Gen{\c{c}}tav, Aksoy,
+  e {\"O}nder]{gencctav2012unsupervised}
+\MakeUppercase{Gen{\c{c}}tav, A., Aksoy, S., {\"O}nder, S.}
+\newblock \enquote{Unsupervised segmentation and classification of cervical
+  cell images}, \emph{Pattern recognition}, v.~45, n.~12, \penalty0
+  pp.~4151--4168, 2012.
+
+\bibitem[\MakeUppercase{Sampat}\emph{ et~al.}(2009)Sampat, Wang, Gupta, Bovik,
+  e Markey]{sampat2009complex}
+\MakeUppercase{Sampat, M.~P., Wang, Z., Gupta, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Complex wavelet structural similarity: A new image
+  similarity index}, \emph{IEEE transactions on image processing}, v.~18,
+  n.~11, \penalty0 pp.~2385--2401, 2009.
+
+\bibitem[\MakeUppercase{Shamir}\emph{ et~al.}(2019)Shamir, Duchin, Kim, Sapiro,
+  e Harel]{shamir2019continuous}
+\MakeUppercase{Shamir, R.~R., Duchin, Y., Kim, J., \MakeLowercase{et~al.}}
+\newblock \enquote{Continuous dice coefficient: a method for evaluating
+  probabilistic segmentations}, \emph{arXiv preprint arXiv:1906.11031}, 2019.
+
+\bibitem[\MakeUppercase{Mun}\emph{ et~al.}(2017)Mun, Jang, Sung, e
+  Kim]{mun2017comparison}
+\MakeUppercase{Mun, J., Jang, W.-D., Sung, D.~J., \MakeLowercase{et~al.}}
+\newblock \enquote{Comparison of objective functions in CNN-based prostate
+  magnetic resonance image segmentation}. In: \emph{2017 IEEE International
+  Conference on Image Processing (ICIP)}, pp. 3859--3863. IEEE, 2017.
+
+\bibitem[\MakeUppercase{Nitsch}\emph{ et~al.}(2019)Nitsch, Klein, Dammann,
+  Wrede, Gembruch, Moltz, Meine, Sure, Kikinis, e Miller]{nitsch2019automatic}
+\MakeUppercase{Nitsch, J., Klein, J., Dammann, P., \MakeLowercase{et~al.}}
+\newblock \enquote{Automatic and efficient MRI-US segmentations for improving
+  intraoperative image fusion in image-guided neurosurgery}, \emph{NeuroImage:
+  Clinical}, v.~22, \penalty0 pp.~101766, 2019.
+
+\bibitem[\MakeUppercase{Salkind}(2010)Salkind]{salkind2010encyclopedia}
+\MakeUppercase{Salkind, N.~J.}
+\newblock \emph{Encyclopedia of research design}, v.~1.
+\newblock sage, 2010.
+
+\bibitem[\MakeUppercase{Garrido-Jurado}\emph{ et~al.}(2014)Garrido-Jurado,
+  Mu{\~n}oz-Salinas, Madrid-Cuevas, e
+  Mar{\'\i}n-Jim{\'e}nez]{garrido2014automatic}
+\MakeUppercase{Garrido-Jurado, S., Mu{\~n}oz-Salinas, R., Madrid-Cuevas, F.~J.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Automatic generation and detection of highly reliable
+  fiducial markers under occlusion}, \emph{Pattern Recognition}, v.~47, n.~6,
+  \penalty0 pp.~2280--2292, 2014.
+
+\bibitem[\MakeUppercase{Ribeiro}\emph{ et~al.}(2014)Ribeiro, Basset, e
+  Kitching]{ribeiro2014density}
+\MakeUppercase{Ribeiro, S.~P., Basset, Y., Kitching, R.}
+\newblock \enquote{Density of insect galls in the forest understorey and
+  canopy: Neotropical, Gondwana or global patterns?} In: \emph{Neotropical
+  insect galls}, Springer, pp. 129--141, 2014.
+
+\bibitem[\MakeUppercase{Garc{\'\i}a-Guzm{\'a}n} e
+  \MakeUppercase{Dirzo}(2004)Garc{\'\i}a-Guzm{\'a}n e
+  Dirzo]{garcia2004incidence}
+\MakeUppercase{Garc{\'\i}a-Guzm{\'a}n, G., Dirzo, R.}
+\newblock \enquote{Incidence of leaf pathogens in the canopy of a Mexican
+  tropical wet forest}, \emph{Plant Ecology}, v.~172, n.~1, \penalty0
+  pp.~41--50, 2004.
+
+\bibitem[\MakeUppercase{Soubeyrand}\emph{ et~al.}(2008)Soubeyrand, Enjalbert, e
+  Sache]{soubeyrand2008accounting}
+\MakeUppercase{Soubeyrand, S., Enjalbert, J., Sache, I.}
+\newblock \enquote{Accounting for roughness of circular processes: Using
+  Gaussian random processes to model the anisotropic spread of airborne plant
+  disease}, \emph{Theoretical Population Biology}, v.~73, n.~1, \penalty0
+  pp.~92--103, 2008.
+
+\bibitem[\MakeUppercase{Pokharel} e \MakeUppercase{Deardon}(2016)Pokharel e
+  Deardon]{pokharel2016gaussian}
+\MakeUppercase{Pokharel, G., Deardon, R.}
+\newblock \enquote{Gaussian process emulators for spatial individual-level
+  models of infectious disease}, \emph{Canadian Journal of Statistics}, v.~44,
+  n.~4, \penalty0 pp.~480--501, 2016.
+
+\bibitem[\MakeUppercase{Ketu} e \MakeUppercase{Mishra}(2021)Ketu e
+  Mishra]{ketu2021enhanced}
+\MakeUppercase{Ketu, S., Mishra, P.~K.}
+\newblock \enquote{Enhanced Gaussian process regression-based forecasting model
+  for COVID-19 outbreak and significance of IoT for its detection},
+  \emph{Applied Intelligence}, v.~51, n.~3, \penalty0 pp.~1492--1512, 2021.
+
+\bibitem[\MakeUppercase{Bonato}(2003)Bonato]{bonato2003wearable}
+\MakeUppercase{Bonato, P.}
+\newblock \enquote{Wearable sensors/systems and their impact on biomedical
+  engineering}, \emph{IEEE Engineering in Medicine and Biology Magazine},
+  v.~22, n.~3, \penalty0 pp.~18--20, 2003.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2019{\natexlab{b}})Silva,
+  Delabrida, Ribeiro, e Oliveira]{silva2019toward}
+\MakeUppercase{Silva, M., Delabrida, S., Ribeiro, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Toward the Design of a Novel Wearable System for Field
+  Research in Ecology}. In: \emph{2018 VIII Brazilian Symposium on Computing
+  Systems Engineering (SBESC)}, pp. 160--165. IEEE, 2019{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Silva}\emph{ et~al.}(2019{\natexlab{c}})Silva, Ribeiro,
+  Delabrida, e Oliveira]{silva2019desenvolvimento}
+\MakeUppercase{Silva, M.~C., Ribeiro, S.~P., Delabrida, S.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Smart-Helmet development for Ecological Field Research
+  Applications}. In: \emph{Anais do XLVI Semin{\'a}rio Integrado de Software e
+  Hardware}, pp. 69--80. SBC, 2019{\natexlab{c}}.
+
+\bibitem[\MakeUppercase{Chouhan}\emph{ et~al.}(2020)Chouhan, Kaul, e
+  Singh]{leaf-disease-dataset}
+\MakeUppercase{Chouhan, S.~S., Kaul, A., Singh, U.~P.}
+\newblock \enquote{A Database of Leaf Images: Practice towards Plant
+  Conservation with Plant Pathology}. 2020.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://data.mendeley.com/datasets/hb74ynkjcn/4}\textgreater .
+
+\bibitem[\MakeUppercase{Pedregosa}\emph{ et~al.}(2011)Pedregosa, Varoquaux,
+  Gramfort, Michel, Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg,
+  et~al.]{pedregosa2011scikit}
+\MakeUppercase{Pedregosa, F., Varoquaux, G., Gramfort, A.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Scikit-learn: Machine learning in Python}, \emph{the Journal
+  of machine Learning research}, v.~12, \penalty0 pp.~2825--2830, 2011.
+
+\bibitem[\MakeUppercase{Silva} e \MakeUppercase{Oliveira}(2019)Silva e
+  Oliveira]{silva2019analyzing}
+\MakeUppercase{Silva, M., Oliveira, R.}
+\newblock \enquote{Analyzing the Effect of Increased Distribution on a Wearable
+  Appliance}. In: \emph{2019 IEEE 43rd Annual Computer Software and
+  Applications Conference (COMPSAC)}, v.~2, pp. 13--18. IEEE, 2019.
+
+\bibitem[\MakeUppercase{Helanter{\"a}}\emph{ et~al.}(2009)Helanter{\"a},
+  Strassmann, Carrillo, e Queller]{helantera2009unicolonial}
+\MakeUppercase{Helanter{\"a}, H., Strassmann, J.~E., Carrillo, J.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Unicolonial ants: where do they come from, what are they and
+  where are they going?} \emph{Trends in Ecology \& Evolution}, v.~24, n.~6,
+  \penalty0 pp.~341--349, 2009.
+
+\bibitem[\MakeUppercase{McGlynn}(2012)McGlynn]{mcglynn2012ecology}
+\MakeUppercase{McGlynn, T.~P.}
+\newblock \enquote{The ecology of nest movement in social insects},
+  \emph{Annual review of entomology}, v.~57, \penalty0 pp.~291--308, 2012.
+
+\bibitem[\MakeUppercase{Hakala}\emph{ et~al.}(2019)Hakala, Perttu, e
+  Helanter{\"a}]{hakala2019evolution}
+\MakeUppercase{Hakala, S.~M., Perttu, S., Helanter{\"a}, H.}
+\newblock \enquote{Evolution of dispersal in ants (Hymenoptera: Formicidae): A
+  review on the dispersal strategies of sessile superorganisms},
+  \emph{Myrmecological News}, v.~29, 2019.
+
+\bibitem[\MakeUppercase{Majer} e \MakeUppercase{Heterick}(2018)Majer e
+  Heterick]{majer2018planning}
+\MakeUppercase{Majer, J., Heterick, B.}
+\newblock \enquote{Planning for long-term invertebrate studies--problems,
+  pitfalls and possibilities}, \emph{Australian Zoologist}, v.~39, n.~4,
+  \penalty0 pp.~617--626, 2018.
+
+\bibitem[\MakeUppercase{Wan}\emph{ et~al.}(2020)Wan, Wang, e
+  Chan]{wan2020kernel}
+\MakeUppercase{Wan, J., Wang, Q., Chan, A.~B.}
+\newblock \enquote{Kernel-based density map generation for dense object
+  counting}, \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 2020.
+
+\bibitem[\MakeUppercase{Howard}\emph{ et~al.}(2017)Howard, Zhu, Chen,
+  Kalenichenko, Wang, Weyand, Andreetto, e Adam]{howard2017mobilenets}
+\MakeUppercase{Howard, A.~G., Zhu, M., Chen, B., \MakeLowercase{et~al.}}
+\newblock \enquote{Mobilenets: Efficient convolutional neural networks for
+  mobile vision applications}, \emph{arXiv preprint arXiv:1704.04861}, 2017.
+
+\bibitem[\MakeUppercase{Tan} e \MakeUppercase{Le}(2021)Tan e
+  Le]{tan2021efficientnetv2}
+\MakeUppercase{Tan, M., Le, Q.}
+\newblock \enquote{Efficientnetv2: Smaller models and faster training}. In:
+  \emph{International Conference on Machine Learning}, pp. 10096--10106. PMLR,
+  2021.
+
+\bibitem[\MakeUppercase{Sodhro}\emph{ et~al.}(2018)Sodhro, Sangaiah, Sodhro,
+  Lohano, e Pirbhulal]{sodhro2018energy}
+\MakeUppercase{Sodhro, A., Sangaiah, A., Sodhro, G., \MakeLowercase{et~al.}}
+\newblock \enquote{An energy-efficient algorithm for wearable electrocardiogram
+  signal processing in ubiquitous healthcare applications}, \emph{Sensors},
+  v.~18, n.~3, \penalty0 pp.~923, 2018.
+
+\bibitem[\MakeUppercase{Firouzi}\emph{ et~al.}(2018)Firouzi, Rahmani,
+  Mankodiya, Badaroglu, Merrett, Wong, e Farahani]{firouzi2018internet}
+\MakeUppercase{Firouzi, F., Rahmani, A.~M., Mankodiya, K.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Internet-of-Things and big data for smarter healthcare: from
+  device to architecture, applications and analytics}. 2018.
+
+\bibitem[\MakeUppercase{Costa}\emph{ et~al.}(2018)Costa, Farias, Santiago,
+  Silva, e Barros]{costa2018abiotic}
+\MakeUppercase{Costa, L., Farias, R., Santiago, A., \MakeLowercase{et~al.}}
+\newblock \enquote{Abiotic factors drives floristic variations of fern’s
+  metacommunity in an Atlantic Forest remnant}, \emph{Brazilian Journal of
+  Biology}, v.~78, n.~4, \penalty0 pp.~736--741, 2018.
+
+\bibitem[\MakeUppercase{Arena}\emph{ et~al.}(2018)Arena, Martines, da~Silva,
+  Dest{\'e}fani, Mascotti, Silva-Zacarin, e Toppa]{arena2018multiple}
+\MakeUppercase{Arena, M.~V., Martines, M.~R., da~Silva, T.~N.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Multiple-scale approach for evaluating the occupation of
+  stingless bees in Atlantic forest patches}, \emph{Forest ecology and
+  management}, v.~430, \penalty0 pp.~509--516, 2018.
+
+\bibitem[\MakeUppercase{Calv{\~a}o}\emph{ et~al.}(2018)Calv{\~a}o, Juen,
+  de~Oliveira~Junior, Batista, e J{\'u}nior]{calvao2018land}
+\MakeUppercase{Calv{\~a}o, L.~B., Juen, L., de~Oliveira~Junior, J. M.~B.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Land use modifies Odonata diversity in streams of the
+  Brazilian Cerrado}, \emph{Journal of insect conservation}, v.~22, n. 5-6,
+  \penalty0 pp.~675--685, 2018.
+
+\bibitem[\MakeUppercase{Pereira}\emph{ et~al.}(2018)Pereira, Nunes, e
+  AICOS]{pereira2018physical}
+\MakeUppercase{Pereira, A., Nunes, F., AICOS, F.~P.}
+\newblock \enquote{Physical Activity Intensity Monitoring of Hospital Workers
+  using a Wearable Sensor}. In: \emph{Proceedings of the 12th EAI International
+  Conference on Pervasive Computing Technologies for Healthcare
+  (PervasiveHealth'18). EAI. DOI: http://dx. doi. org/10.4108/eai}, pp. 20--4,
+  2018.
+
+\bibitem[\MakeUppercase{Jahanbanifar} e
+  \MakeUppercase{Akhavian}(2018)Jahanbanifar e
+  Akhavian]{jahanbanifar2018evaluation}
+\MakeUppercase{Jahanbanifar, S., Akhavian, R.}
+\newblock \enquote{Evaluation of wearable sensors to quantify construction
+  workers muscle force: an ergonomic analysis}. In: \emph{Proceedings of the
+  2018 Winter Simulation Conference}, pp. 3921--3929. IEEE Press, 2018.
+
+\bibitem[\MakeUppercase{Weeks}\emph{ et~al.}(2018)Weeks, Sprint, Stilwill,
+  Meisen-Vehrs, e Cook]{weeks2018implementing}
+\MakeUppercase{Weeks, D.~L., Sprint, G.~L., Stilwill, V.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Implementing wearable sensors for continuous assessment of
+  daytime heart rate response in inpatient rehabilitation}, \emph{Telemedicine
+  and e-Health}, v.~24, n.~12, \penalty0 pp.~1014--1020, 2018.
+
+\bibitem[\MakeUppercase{Vel{\'a}zquez}\emph{ et~al.}(2018)Vel{\'a}zquez,
+  Pissaloux, Rodrigo, Carrasco, Giannoccaro, e
+  Lay-Ekuakille]{velazquez2018outdoor}
+\MakeUppercase{Vel{\'a}zquez, R., Pissaloux, E., Rodrigo, P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{An outdoor navigation system for blind pedestrians using GPS
+  and tactile-foot feedback}, \emph{Applied Sciences}, v.~8, n.~4, \penalty0
+  pp.~578, 2018.
+
+\bibitem[\MakeUppercase{Tjhai}\emph{ et~al.}(2018)Tjhai, Steward, Lichti, e
+  O'Keefe]{tjhai2018using}
+\MakeUppercase{Tjhai, C., Steward, J., Lichti, D., \MakeLowercase{et~al.}}
+\newblock \enquote{Using a mobile range-camera motion capture system to
+  evaluate the performance of integration of multiple low-cost wearable sensors
+  and gait kinematics for pedestrian navigation in realistic environments}. In:
+  \emph{2018 IEEE/ION Position, Location and Navigation Symposium (PLANS)}, pp.
+  294--300. IEEE, 2018.
+
+\bibitem[\MakeUppercase{Kiss}\emph{ et~al.}(2018)Kiss, Boldt, Pfleging, e
+  Schneegass]{kiss2018navigation}
+\MakeUppercase{Kiss, F., Boldt, R., Pfleging, B., \MakeLowercase{et~al.}}
+\newblock \enquote{Navigation systems for motorcyclists: exploring wearable
+  tactile feedback for route guidance in the real world}. In: \emph{Proceedings
+  of the 2018 CHI Conference on Human Factors in Computing Systems}, p. 617.
+  ACM, 2018.
+
+\bibitem[dht()]{dht22}
+\enquote{DHT22.pdf}.
+  \url{https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf}.
+\newblock (Accessed on 08/11/2023).
+
+\bibitem[mpu()]{mpu6050}
+\enquote{MPU-6000-Datasheet1.pdf}.
+  \url{https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf}.
+\newblock (Accessed on 08/11/2023).
+
+\bibitem[ras()]{raspizerow}
+\enquote{Microsoft Word - BCM2835 ARM Peripherals.docx}.
+  \url{https://datasheets.raspberrypi.com/bcm2835/bcm2835-peripherals.pdf}.
+\newblock (Accessed on 08/11/2023).
+
+\bibitem[max()]{max30100}
+\enquote{max30100.pdf}.
+  \url{https://www.analog.com/media/en/technical-documentation/data-sheets/max30100.pdf}.
+\newblock (Accessed on 08/11/2023).
+
+\bibitem[fgp()]{fgpmmopa6h}
+\enquote{GlobalTop-FGPMMOPA6H-Datasheet-V0A-Preliminary}.
+  \url{https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf}.
+\newblock (Accessed on 08/11/2023).
+
+\bibitem[tsl()]{tsl2561}
+\enquote{Document:}.
+  \url{https://cdn-shop.adafruit.com/datasheets/TSL2561.pdf}.
+\newblock (Accessed on 08/11/2023).
+
+\bibitem[\MakeUppercase{Waters} e \MakeUppercase{Lange}(2015)Waters e
+  Lange]{waters2015updated}
+\MakeUppercase{Waters, L.~E., Lange, R.~A.}
+\newblock \enquote{An updated calibration of the plagioclase-liquid
+  hygrometer-thermometer applicable to basalts through rhyolites},
+  \emph{American Mineralogist}, v.~100, n.~10, \penalty0 pp.~2172--2184, 2015.
+
+\bibitem[\MakeUppercase{Yadav} e \MakeUppercase{Bleakley}(2016)Yadav e
+  Bleakley]{yadav2016fast}
+\MakeUppercase{Yadav, N., Bleakley, C.}
+\newblock \enquote{Fast calibration of a 9-DOF IMU using a 3 DOF position
+  tracker and a semi-random motion sequence}, \emph{Measurement}, v.~90,
+  \penalty0 pp.~192--198, 2016.
+
+\bibitem[\MakeUppercase{{\"O}berg}(1995){\"O}berg]{oberg1995muscle}
+\MakeUppercase{{\"O}berg, T.}
+\newblock \enquote{Muscle fatigue and calibration of EMG measurements},
+  \emph{Journal of Electromyography and Kinesiology}, v.~5, n.~4, \penalty0
+  pp.~239--243, 1995.
+
+\bibitem[\MakeUppercase{Menge}\emph{ et~al.}(1998)Menge, Seeber, Volksen,
+  Wubbena, e Schmitz]{menge1998results}
+\MakeUppercase{Menge, F., Seeber, G., Volksen, C., \MakeLowercase{et~al.}}
+\newblock \enquote{Results of absolute field calibration of GPS antenna PCV}.
+  In: \emph{PROCEEDINGS OF ION GPS}, v.~11, pp. 31--38. INSTITUTE OF
+  NAVIGATION, 1998.
+
+\bibitem[\MakeUppercase{Schrama} e \MakeUppercase{Reijn}(1999)Schrama e
+  Reijn]{schrama1999novel}
+\MakeUppercase{Schrama, C., Reijn, H.}
+\newblock \enquote{Novel calibration method for filter radiometers},
+  \emph{Metrologia}, v.~36, n.~3, \penalty0 pp.~179, 1999.
+
+\bibitem[\MakeUppercase{Hayes} e \MakeUppercase{Smith}(2001)Hayes e
+  Smith]{hayes2001new}
+\MakeUppercase{Hayes, M.~J., Smith, P.~R.}
+\newblock \enquote{A new method for pulse oximetry possessing inherent
+  insensitivity to artifact}, \emph{IEEE Transactions on Biomedical
+  Engineering}, v.~48, n.~4, \penalty0 pp.~452--461, 2001.
+
+\bibitem[\MakeUppercase{Wu}\emph{ et~al.}(2018)Wu, Redout{\'e}, e
+  Yuce]{wu2018we}
+\MakeUppercase{Wu, F., Redout{\'e}, J.-M., Yuce, M.~R.}
+\newblock \enquote{We-safe: A self-powered wearable IoT sensor network for
+  safety applications based on LoRa}, \emph{IEEE Access}, v.~6, \penalty0
+  pp.~40846--40853, 2018.
+
+\bibitem[\MakeUppercase{Varatharajan}\emph{ et~al.}(2018)Varatharajan,
+  Manogaran, Priyan, e Sundarasekar]{varatharajan2018wearable}
+\MakeUppercase{Varatharajan, R., Manogaran, G., Priyan, M.~K.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable sensor devices for early detection of Alzheimer
+  disease using dynamic time warping algorithm}, \emph{Cluster Computing},
+  v.~21, n.~1, \penalty0 pp.~681--690, 2018.
+
+\bibitem[\MakeUppercase{Roopaei}\emph{ et~al.}(2018)Roopaei, Rad, e
+  Prevost]{roopaei2018wearable}
+\MakeUppercase{Roopaei, M., Rad, P., Prevost, J.~J.}
+\newblock \enquote{A Wearable IoT with Complex Artificial Perception Embedding
+  for Alzheimer Patients}. In: \emph{2018 World Automation Congress (WAC)}, pp.
+  1--6. IEEE, 2018.
+
+\bibitem[\MakeUppercase{Li}\emph{ et~al.}(2019{\natexlab{b}})Li, Dong, Downen,
+  Tran, Jackson, Pillai, Zaghloul, e Li]{li2019wearable}
+\MakeUppercase{Li, B., Dong, Q., Downen, R.~S., \MakeLowercase{et~al.}}
+\newblock \enquote{A wearable IoT aldehyde sensor for pediatric asthma research
+  and management}, \emph{Sensors and Actuators B: Chemical}, v.~287, \penalty0
+  pp.~584--594, 2019{\natexlab{b}}.
+
+\bibitem[\MakeUppercase{Nousias}\emph{ et~al.}(2018)Nousias, Tselios, Bitzas,
+  Lalos, Moustakas, e Chatzigiannakis]{nousias2018uncertainty}
+\MakeUppercase{Nousias, S., Tselios, C., Bitzas, D., \MakeLowercase{et~al.}}
+\newblock \enquote{Uncertainty management for wearable iot wristband sensors
+  using Laplacian-based matrix completion}. In: \emph{2018 IEEE 23rd
+  International Workshop on Computer Aided Modeling and Design of Communication
+  Links and Networks (CAMAD)}, pp. 1--6. IEEE, 2018.
+
+\bibitem[\MakeUppercase{Gia}\emph{ et~al.}(2018)Gia, Sarker, Tcarenko, Rahmani,
+  Westerlund, Liljeberg, e Tenhunen]{gia2018energy}
+\MakeUppercase{Gia, T.~N., Sarker, V.~K., Tcarenko, I., \MakeLowercase{et~al.}}
+\newblock \enquote{Energy efficient wearable sensor node for IoT-based fall
+  detection systems}, \emph{Microprocessors and Microsystems}, v.~56, \penalty0
+  pp.~34--46, 2018.
+
+\bibitem[\MakeUppercase{Mahmoud} e \MakeUppercase{Mohamad}(2016)Mahmoud e
+  Mohamad]{mahmoud2016study}
+\MakeUppercase{Mahmoud, M.~S., Mohamad, A.~A.}
+\newblock \enquote{A study of efficient power consumption wireless
+  communication techniques/modules for internet of things (IoT) applications},
+  2016.
+
+\bibitem[\MakeUppercase{Boukerche} e \MakeUppercase{Samarah}(2008)Boukerche e
+  Samarah]{boukerche2008novel}
+\MakeUppercase{Boukerche, A., Samarah, S.}
+\newblock \enquote{A novel algorithm for mining association rules in wireless
+  ad hoc sensor networks}, \emph{IEEE Transactions on Parallel and Distributed
+  Systems}, v.~19, n.~7, \penalty0 pp.~865--877, 2008.
+
+\bibitem[\MakeUppercase{Chen}\emph{ et~al.}(2017)Chen, Hu, Wang, Zhao, Amos,
+  Wu, Ha, Elgazzar, Pillai, Klatzky, et~al.]{chen2017empirical}
+\MakeUppercase{Chen, Z., Hu, W., Wang, J., \MakeLowercase{et~al.}}
+\newblock \enquote{An empirical study of latency in an emerging class of edge
+  computing applications for wearable cognitive assistance}. In:
+  \emph{Proceedings of the Second ACM/IEEE Symposium on Edge Computing}, pp.
+  1--14, 2017.
+
+\bibitem[\MakeUppercase{Kim}\emph{ et~al.}(2017)Kim, Gutruf, Chiarelli, Heo,
+  Cho, Xie, Banks, Han, Jang, Lee, et~al.]{kim2017miniaturized}
+\MakeUppercase{Kim, J., Gutruf, P., Chiarelli, A.~M., \MakeLowercase{et~al.}}
+\newblock \enquote{Miniaturized battery-free wireless systems for wearable
+  pulse oximetry}, \emph{Advanced functional materials}, v.~27, n.~1, \penalty0
+  pp.~1604373, 2017.
+
+\bibitem[\MakeUppercase{Ren}\emph{ et~al.}(2017)Ren, Guo, Xu, e
+  Zhang]{ren2017serving}
+\MakeUppercase{Ren, J., Guo, H., Xu, C., \MakeLowercase{et~al.}}
+\newblock \enquote{Serving at the edge: A scalable IoT architecture based on
+  transparent computing}, \emph{IEEE Network}, v.~31, n.~5, \penalty0
+  pp.~96--105, 2017.
+
+\bibitem[\MakeUppercase{Grubert}\emph{ et~al.}(2016)Grubert, Langlotz,
+  Zollmann, e Regenbrecht]{grubert2016towards}
+\MakeUppercase{Grubert, J., Langlotz, T., Zollmann, S., \MakeLowercase{et~al.}}
+\newblock \enquote{Towards pervasive augmented reality: Context-awareness in
+  augmented reality}, \emph{IEEE transactions on visualization and computer
+  graphics}, v.~23, n.~6, \penalty0 pp.~1706--1724, 2016.
+
+\bibitem[\MakeUppercase{Surve} e \MakeUppercase{Ghorpade}(2017)Surve e
+  Ghorpade]{surve2017pervasive}
+\MakeUppercase{Surve, A.~R., Ghorpade, V.~R.}
+\newblock \enquote{Pervasive Context-Aware Computing Survey of Context-aware
+  ubiquitous middleware systems}, \emph{International Journal of Engineering10.
+  1}, 2017.
+
+\bibitem[\MakeUppercase{Amft}(2018)Amft]{amft2018wearable}
+\MakeUppercase{Amft, O.}
+\newblock \enquote{How wearable computing is shaping digital health},
+  \emph{IEEE Pervasive Computing}, v.~17, n.~1, \penalty0 pp.~92--98, 2018.
+
+\bibitem[\MakeUppercase{Kliger} e \MakeUppercase{Silberzweig}(2020)Kliger e
+  Silberzweig]{kliger2020mitigating}
+\MakeUppercase{Kliger, A.~S., Silberzweig, J.}
+\newblock \enquote{Mitigating risk of COVID-19 in dialysis facilities},
+  \emph{Clinical Journal of the American Society of Nephrology}, v.~15, n.~5,
+  \penalty0 pp.~707--709, 2020.
+
+\bibitem[\MakeUppercase{Prachand}\emph{ et~al.}(2020)Prachand, Milner, Angelos,
+  Posner, Fung, Agrawal, Jeevanandam, e Matthews]{prachand2020medically}
+\MakeUppercase{Prachand, V.~N., Milner, R., Angelos, P.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Medically-necessary, time-sensitive procedures: A scoring
+  system to ethically and efficiently manage resource scarcity and provider
+  risk during the COVID-19 pandemic}, \emph{Journal of the American College of
+  Surgeons}, 2020.
+
+\bibitem[\MakeUppercase{Organization}\emph{ et~al.}(2020)Organization
+  et~al.]{world2020advice}
+\MakeUppercase{Organization, W.~H., others}.
+\newblock \emph{Advice on the use of masks in the context of COVID-19: interim
+  guidance, 6 April 2020}.
+\newblock Relat{\'o}rio t{\'e}cnico, World Health Organization, 2020.
+
+\bibitem[\MakeUppercase{Hong}\emph{ et~al.}(2019)Hong, Gu, Seo, Wang, Liu,
+  Meng, Xu, e Chen]{hong2019wearable}
+\MakeUppercase{Hong, S., Gu, Y., Seo, J.~K., \MakeLowercase{et~al.}}
+\newblock \enquote{Wearable thermoelectrics for personalized thermoregulation},
+  \emph{Science advances}, v.~5, n.~5, \penalty0 pp.~eaaw0536, 2019.
+
+\bibitem[\MakeUppercase{S{\"o}r{\"o}s}\emph{ et~al.}(2015)S{\"o}r{\"o}s,
+  Semmler, Humair, e Hilliges]{soros2015fast}
+\MakeUppercase{S{\"o}r{\"o}s, G., Semmler, S., Humair, L.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Fast blur removal for wearable QR code scanners}. In:
+  \emph{Proceedings of the 2015 ACM International Symposium on Wearable
+  Computers}, pp. 117--124, 2015.
+
+\bibitem[\MakeUppercase{Tremper} e \MakeUppercase{Barker}(1989)Tremper e
+  Barker]{tremper1989pulse}
+\MakeUppercase{Tremper, K.~K., Barker, S.~J.}
+\newblock \enquote{Pulse oximetry}, \emph{Anesthesiology: The Journal of the
+  American Society of Anesthesiologists}, v.~70, n.~1, \penalty0 pp.~98--108,
+  1989.
+
+\bibitem[\MakeUppercase{Long}\emph{ et~al.}(2017)Long, Cao, Jiang, e
+  Zhang]{long2017edge}
+\MakeUppercase{Long, C., Cao, Y., Jiang, T., \MakeLowercase{et~al.}}
+\newblock \enquote{Edge computing framework for cooperative video processing in
+  multimedia IoT systems}, \emph{IEEE Transactions on Multimedia}, v.~20, n.~5,
+  \penalty0 pp.~1126--1139, 2017.
+
+\bibitem[\MakeUppercase{Chen}\emph{ et~al.}(2020)Chen, He, Li, Yin, e
+  Chen]{chen2020mobile}
+\MakeUppercase{Chen, Z., He, S., Li, F., \MakeLowercase{et~al.}}
+\newblock \enquote{Mobile field hospitals, an effective way of dealing with
+  COVID-19 in China: sharing our experience}, \emph{BioScience Trends}, 2020.
+
+\bibitem[\MakeUppercase{Chang}\emph{ et~al.}(2017)Chang, Srirama, e
+  Buyya]{chang2017indie}
+\MakeUppercase{Chang, C., Srirama, S.~N., Buyya, R.}
+\newblock \enquote{Indie fog: An efficient fog-computing infrastructure for the
+  internet of things}, \emph{Computer}, v.~50, n.~9, \penalty0 pp.~92--98,
+  2017.
+
+\bibitem[\MakeUppercase{Majumder}\emph{ et~al.}(2017)Majumder, Mondal, e
+  Deen]{majumder2017wearable}
+\MakeUppercase{Majumder, S., Mondal, T., Deen, M.~J.}
+\newblock \enquote{Wearable sensors for remote health monitoring},
+  \emph{Sensors}, v.~17, n.~1, \penalty0 pp.~130, 2017.
+
+\bibitem[\MakeUppercase{Betancur}\emph{ et~al.}(2018)Betancur, Villa-Espinal,
+  Osorio-G{\'o}mez, Cu{\'e}llar, e Su{\'a}rez]{betancur2018research}
+\MakeUppercase{Betancur, J.~A., Villa-Espinal, J., Osorio-G{\'o}mez, G.,
+  \MakeLowercase{et~al.}}
+\newblock \enquote{Research topics and implementation trends on automotive
+  head-up display systems}, \emph{International Journal on Interactive Design
+  and Manufacturing (IJIDeM)}, v.~12, n.~1, \penalty0 pp.~199--214, 2018.
+
+\bibitem[\MakeUppercase{Shah}\emph{ et~al.}()Shah, Majmudar, Stein, Gupta,
+  Suppes, Karamanis, Capannari, Sethi, e Patte]{doi:10.1111/acem.14053}
+\MakeUppercase{Shah, S., Majmudar, K., Stein, A., \MakeLowercase{et~al.}}
+\newblock \enquote{Novel use of home pulse oximetry monitoring in COVID-19
+  patients discharged from the emergency department identifies need for
+  hospitalization}, \emph{Academic Emergency Medicine}, v.~n/a, n. n/a.
+\newblock \doi{10.1111/acem.14053}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14053}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Cao}\emph{ et~al.}(2018)Cao, Xu, Zhou, Wei, Chen, e
+  Hu]{cao2018qos}
+\MakeUppercase{Cao, K., Xu, G., Zhou, J., \MakeLowercase{et~al.}}
+\newblock \enquote{QoS-adaptive approximate real-time computation for
+  mobility-aware IoT lifetime optimization}, \emph{IEEE Transactions on
+  Computer-Aided Design of Integrated Circuits and Systems}, v.~38, n.~10,
+  \penalty0 pp.~1799--1810, 2018.
+
+\bibitem[\MakeUppercase{Sikder} e \MakeUppercase{Nahid}(2021)Sikder e
+  Nahid]{sikder2021ku}
+\MakeUppercase{Sikder, N., Nahid, A.-A.}
+\newblock \enquote{KU-HAR: An open dataset for heterogeneous human activity
+  recognition}, \emph{Pattern Recognition Letters}, v.~146, \penalty0
+  pp.~46--54, 2021.
+
+\bibitem[\MakeUppercase{Abid} e \MakeUppercase{Nahid}(2021)Abid e
+  Nahid]{abid2021two}
+\MakeUppercase{Abid, M.~H., Nahid, A.-A.}
+\newblock \enquote{Two Unorthodox Aspects in Handcrafted-feature Extraction for
+  Human Activity Recognition Datasets}. In: \emph{2021 International Conference
+  on Electronics, Communications and Information Technology (ICECIT)}, pp.
+  1--4. IEEE, 2021.
+
+\end{thebibliography}

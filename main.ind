@@ -1,0 +1,42 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{American Sign Language}]\begingroup ASL\nomeqref {2.0}\nompageref{12}
+  \item [{Artificial Intelligence}]\begingroup AI\nomeqref {2.0}\nompageref{12}
+  \item [{Central Processing Unit}]\begingroup CPU\nomeqref {3.0}\nompageref{31}
+  \item [{Convolutional Neural Network}]\begingroup CNN\nomeqref {2.0}\nompageref{12}
+  \item [{Cooperative Wearable System}]\begingroup CWS\nomeqref {5.0}\nompageref{105}
+  \item [{Cyber-Physical System}]\begingroup CPS\nomeqref {1.0}\nompageref{1}
+  \item [{Deep Neural Network}]\begingroup DNN\nomeqref {2.0}\nompageref{12}
+  \item [{Electrocardiography}]\begingroup ECG\nomeqref {2.0}\nompageref{12}
+  \item [{Electroencephalography}]\begingroup EEG\nomeqref {2.0}\nompageref{12}
+  \item [{Field-Programmable Gate Array}]\begingroup FPGA\nomeqref {2.0}\nompageref{12}
+  \item [{Gaussian Process Estimator}]\begingroup GPE\nomeqref {4.0}\nompageref{39}
+  \item [{Gaussian Random Process}]\begingroup GRP\nomeqref {4.0}\nompageref{39}
+  \item [{Generative Adversarial Network}]\begingroup GAN\nomeqref {4.0}\nompageref{39}
+  \item [{Hardware}]\begingroup HW\nomeqref {2.0}\nompageref{12}
+  \item [{Head-Up Display}]\begingroup HUD\nomeqref {5.0}\nompageref{105}
+  \item [{Hybrid Pelletized Sinter}]\begingroup HPS\nomeqref {2.0}\nompageref{12}
+  \item [{Inertial Measurement Unit}]\begingroup IMU\nomeqref {4.0}\nompageref{39}
+  \item [{Internet of Things}]\begingroup IoT\nomeqref {1.0}\nompageref{1}
+  \item [{Intrusion Detection System}]\begingroup IDS\nomeqref {2.0}\nompageref{12}
+  \item [{Light Detection and Ranging}]\begingroup LIDAR\nomeqref {4.0}\nompageref{39}
+  \item [{Long Short-Term Memory}]\begingroup LSTM\nomeqref {2.0}\nompageref{12}
+  \item [{Magnetocardiography}]\begingroup MCG\nomeqref {2.0}\nompageref{12}
+  \item [{Mobile Edge Computing}]\begingroup MEC\nomeqref {2.0}\nompageref{12}
+  \item [{Multi-Layer Perceptron}]\begingroup MLP\nomeqref {4.0}\nompageref{39}
+  \item [{Natural-Language Processing}]\begingroup NLP\nomeqref {1.0}\nompageref{1}
+  \item [{Photoplesmiography}]\begingroup PPG\nomeqref {2.0}\nompageref{12}
+  \item [{Printed Circuit Board}]\begingroup PCB\nomeqref {3.0}\nompageref{31}
+  \item [{Quality-of-Service}]\begingroup QoS\nomeqref {5.0}\nompageref{105}
+  \item [{Software}]\begingroup SW\nomeqref {2.0}\nompageref{12}
+  \item [{Support Vector Machine}]\begingroup SVM\nomeqref {2.0}\nompageref{12}
+  \item [{Unmanned Aerial Vehicles}]\begingroup UAV\nomeqref {2.0}\nompageref{12}
+  \item [{Variational Autoencoders}]\begingroup VAE\nomeqref {4.0}\nompageref{39}
+  \item [{Vehicular Ad Hoc Network}]\begingroup VANET\nomeqref {2.0}\nompageref{12}
+  \item [{Wireless Body-Area Network}]\begingroup WBAN\nomeqref {3.0}\nompageref{31}
+  \item [{Wireless Local Area Network}]\begingroup WLAN\nomeqref {4.0}\nompageref{39}
+  \item [{Wireless Sensor Networks}]\begingroup WSN\nomeqref {2.0}\nompageref{12}
+  \item [{Zettabytes}]\begingroup ZB\nomeqref {1.0}\nompageref{1}
+
+\end{thenomenclature}
